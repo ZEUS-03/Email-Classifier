@@ -1,0 +1,3002 @@
+[
+  {
+    "category": "transactional",
+    "subject": "Invoice paid: ₹43,346.54",
+    "body": "Recharge of ₹43,346.54 to your account with Butler-Matthews has been completed.",
+    "sender": "Butler-Matthews <no-reply@butler-matthews.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Special invite from Chen, Butler and Davis",
+    "body": "You're invited to a special preview of our upcoming collection.",
+    "sender": "Chen, Butler and Davis <no-reply@chen,butleranddavis.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Receipt for your payment of ₹78,191.55",
+    "body": "Your account ending with 4566 has been debited by ₹78,191.55 for Tucker LLC.",
+    "sender": "Tucker LLC <no-reply@tuckerllc.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Bill payment of ₹34,850.52 completed",
+    "body": "We confirm receipt of your payment of ₹34,850.52. Thank you for choosing James-Castaneda.",
+    "sender": "James-Castaneda <no-reply@james-castaneda.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Explore trending products this week",
+    "body": "Your subscription has been renewed successfully. Enjoy uninterrupted access to our content.",
+    "sender": "Ross-Gill <no-reply@ross-gill.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "UPI payment of ₹68,069.63 made to Howard, Nash and Wallace",
+    "body": "Dear customer, your payment of ₹68,069.63 to Howard, Nash and Wallace has been successfully processed. Thank you for using our services.",
+    "sender": "Howard, Nash and Wallace <no-reply@howard,nashandwallace.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Payment of ₹34,439.43 successful",
+    "body": "We have received your payment of ₹34,439.43. Your transaction ID is 9816100201.",
+    "sender": "Ramos-Swanson <no-reply@ramos-swanson.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Transaction alert: ₹51,098.77 credited",
+    "body": "This is to confirm that your bill payment of ₹51,098.77 to White, Miller and Jackson has been completed successfully.",
+    "sender": "White, Miller and Jackson <no-reply@white,millerandjackson.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Explore trending products this week",
+    "body": "We have handpicked offers and discounts exclusively for you. Don't miss out on these deals!",
+    "sender": "Rojas and Sons <no-reply@rojasandsons.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Your package is on its way",
+    "body": "Our biggest sale of the season starts now! Shop your favorites at amazing discounts.",
+    "sender": "Phillips-Carter <no-reply@phillips-carter.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Your account has been debited by ₹58,373.52",
+    "body": "Payment of ₹58,373.52 to Anderson PLC was successful. Keep this email as your receipt.",
+    "sender": "Anderson PLC <no-reply@andersonplc.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Receipt for your payment of ₹40,092.85",
+    "body": "We have received your payment of ₹40,092.85. Your transaction ID is 3366807148.",
+    "sender": "Perry-Burns <no-reply@perry-burns.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Exciting offers just for you",
+    "body": "Explore this week's most popular items and trending products.",
+    "sender": "Wong and Sons <no-reply@wongandsons.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Weekly newsletter from Peck Inc",
+    "body": "Explore this week's most popular items and trending products.",
+    "sender": "Peck Inc <no-reply@peckinc.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Your package is on its way",
+    "body": "Hi there, your order is on the way and will reach you soon. Track your shipment with the link below.",
+    "sender": "Johnston-Gomez <no-reply@johnston-gomez.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Transaction alert: ₹42,381.98 credited",
+    "body": "This is your official receipt for the payment of ₹42,381.98 towards Sullivan Inc.",
+    "sender": "Sullivan Inc <no-reply@sullivaninc.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Bill payment of ₹28,643.53 completed",
+    "body": "Your payment of ₹28,643.53 was processed via UPI. Transaction reference: 4382352480.",
+    "sender": "Harris-Hill <no-reply@harris-hill.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "UPI payment of ₹23,048.71 made to Raymond, Williams and Reynolds",
+    "body": "Your payment of ₹23,048.71 was processed via UPI. Transaction reference: 5588388195.",
+    "sender": "Raymond, Williams and Reynolds <no-reply@raymond,williamsandreynolds.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "UPI payment of ₹76,034.77 made to Martin and Sons",
+    "body": "Your account ending with 5392 has been debited by ₹76,034.77 for Martin and Sons.",
+    "sender": "Martin and Sons <no-reply@martinandsons.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Bill payment of ₹41,747.40 completed",
+    "body": "We confirm receipt of your payment of ₹41,747.40. Thank you for choosing Riley and Sons.",
+    "sender": "Riley and Sons <no-reply@rileyandsons.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Special invite from Taylor LLC",
+    "body": "Your subscription has been renewed successfully. Enjoy uninterrupted access to our content.",
+    "sender": "Taylor LLC <no-reply@taylorllc.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Receipt for your payment of ₹35,860.85",
+    "body": "Your account ending with 8280 has been debited by ₹35,860.85 for Carter, Reeves and Phillips.",
+    "sender": "Carter, Reeves and Phillips <no-reply@carter,reevesandphillips.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Exciting offers just for you",
+    "body": "Our biggest sale of the season starts now! Shop your favorites at amazing discounts.",
+    "sender": "Green-Doyle <no-reply@green-doyle.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Reminder: Upcoming event at Rivas-Stafford",
+    "body": "Good news! Your package is out for delivery. Expect it to arrive within the next two days.",
+    "sender": "Rivas-Stafford <no-reply@rivas-stafford.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Special invite from Mcclure-Dougherty",
+    "body": "Hi there, your order is on the way and will reach you soon. Track your shipment with the link below.",
+    "sender": "Mcclure-Dougherty <no-reply@mcclure-dougherty.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Special invite from Martin-Ali",
+    "body": "Hi there, your order is on the way and will reach you soon. Track your shipment with the link below.",
+    "sender": "Martin-Ali <no-reply@martin-ali.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Weekly newsletter from Jimenez-Murphy",
+    "body": "Hi there, your order is on the way and will reach you soon. Track your shipment with the link below.",
+    "sender": "Jimenez-Murphy <no-reply@jimenez-murphy.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Your package is on its way",
+    "body": "Here’s your weekly newsletter with updates, tips, and special announcements from our team.",
+    "sender": "Lee, Berry and Howard <no-reply@lee,berryandhoward.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Explore trending products this week",
+    "body": "Good news! Your package is out for delivery. Expect it to arrive within the next two days.",
+    "sender": "Sandoval-Rodriguez <no-reply@sandoval-rodriguez.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Bill payment of ₹94,498.49 completed",
+    "body": "Dear customer, your payment of ₹94,498.49 to Wolfe-Andrade has been successfully processed. Thank you for using our services.",
+    "sender": "Wolfe-Andrade <no-reply@wolfe-andrade.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "New arrivals in store – check them out",
+    "body": "Good news! Your package is out for delivery. Expect it to arrive within the next two days.",
+    "sender": "Francis, Davis and Nguyen <no-reply@francis,davisandnguyen.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Online purchase of ₹35,562.68 confirmed",
+    "body": "We have received your payment of ₹35,562.68. Your transaction ID is 8875096662.",
+    "sender": "Kemp-Martinez <no-reply@kemp-martinez.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Explore trending products this week",
+    "body": "Here’s your weekly newsletter with updates, tips, and special announcements from our team.",
+    "sender": "Hines LLC <no-reply@hinesllc.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Receipt for your payment of ₹61,737.25",
+    "body": "This is your official receipt for the payment of ₹61,737.25 towards Fowler LLC.",
+    "sender": "Fowler LLC <no-reply@fowlerllc.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Your subscription has been renewed",
+    "body": "Your subscription has been renewed successfully. Enjoy uninterrupted access to our content.",
+    "sender": "Trevino Ltd <no-reply@trevinoltd.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Your package is on its way",
+    "body": "You're invited to a special preview of our upcoming collection.",
+    "sender": "Gonzalez-Allen <no-reply@gonzalez-allen.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Your package is on its way",
+    "body": "Hi there, your order is on the way and will reach you soon. Track your shipment with the link below.",
+    "sender": "Allen-Terrell <no-reply@allen-terrell.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Receipt for your payment of ₹4,489.31",
+    "body": "Your account ending with 8495 has been debited by ₹4,489.31 for Hicks-Gomez.",
+    "sender": "Hicks-Gomez <no-reply@hicks-gomez.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "UPI payment of ₹50,610.86 made to Decker PLC",
+    "body": "Recharge of ₹50,610.86 to your account with Decker PLC has been completed.",
+    "sender": "Decker PLC <no-reply@deckerplc.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Your order has been dispatched",
+    "body": "We’re hosting an exclusive event this weekend. RSVP now to secure your spot.",
+    "sender": "Tucker LLC <no-reply@tuckerllc.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "UPI payment of ₹24,740.37 made to Taylor-Gonzalez",
+    "body": "We confirm receipt of your payment of ₹24,740.37. Thank you for choosing Taylor-Gonzalez.",
+    "sender": "Taylor-Gonzalez <no-reply@taylor-gonzalez.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Invoice paid: ₹63,634.37",
+    "body": "Your account ending with 4695 has been debited by ₹63,634.37 for Ortiz Ltd.",
+    "sender": "Ortiz Ltd <no-reply@ortizltd.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Your package is on its way",
+    "body": "Hi there, your order is on the way and will reach you soon. Track your shipment with the link below.",
+    "sender": "Watson, Robertson and Roberts <no-reply@watson,robertsonandroberts.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Payment of ₹19,548.92 successful",
+    "body": "Your account ending with 1894 has been debited by ₹19,548.92 for Arnold, Graves and Willis.",
+    "sender": "Arnold, Graves and Willis <no-reply@arnold,gravesandwillis.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "New arrivals in store – check them out",
+    "body": "Our biggest sale of the season starts now! Shop your favorites at amazing discounts.",
+    "sender": "Davis, Williams and Hoffman <no-reply@davis,williamsandhoffman.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Your transfer of ₹68,849.79 was successful",
+    "body": "Your transfer of ₹68,849.79 to Cook, Kelly and Wilson has been credited successfully. Ref No: 8573962964.",
+    "sender": "Cook, Kelly and Wilson <no-reply@cook,kellyandwilson.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Bill payment of ₹32,360.44 completed",
+    "body": "Your account ending with 4493 has been debited by ₹32,360.44 for Montoya LLC.",
+    "sender": "Montoya LLC <no-reply@montoyallc.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Your subscription has been renewed",
+    "body": "Hi there, your order is on the way and will reach you soon. Track your shipment with the link below.",
+    "sender": "Munoz and Sons <no-reply@munozandsons.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Your order has been dispatched",
+    "body": "Check out our latest arrivals and discover products you'll love.",
+    "sender": "Carter, Green and Morton <no-reply@carter,greenandmorton.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "UPI payment of ₹53,960.43 made to Allison Group",
+    "body": "We confirm receipt of your payment of ₹53,960.43. Thank you for choosing Allison Group.",
+    "sender": "Allison Group <no-reply@allisongroup.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Special invite from Boyer PLC",
+    "body": "Hi there, your order is on the way and will reach you soon. Track your shipment with the link below.",
+    "sender": "Boyer PLC <no-reply@boyerplc.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Exciting offers just for you",
+    "body": "Good news! Your package is out for delivery. Expect it to arrive within the next two days.",
+    "sender": "Thornton-Mcdonald <no-reply@thornton-mcdonald.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Special invite from Ramirez-Henderson",
+    "body": "Your subscription has been renewed successfully. Enjoy uninterrupted access to our content.",
+    "sender": "Ramirez-Henderson <no-reply@ramirez-henderson.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Transaction alert: ₹85,175.66 credited",
+    "body": "We confirm receipt of your payment of ₹85,175.66. Thank you for choosing Villarreal Ltd.",
+    "sender": "Villarreal Ltd <no-reply@villarrealltd.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Your account has been debited by ₹75,257.98",
+    "body": "Your account ending with 4052 has been debited by ₹75,257.98 for Brennan-King.",
+    "sender": "Brennan-King <no-reply@brennan-king.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Explore trending products this week",
+    "body": "Check out our latest arrivals and discover products you'll love.",
+    "sender": "Abbott-Santiago <no-reply@abbott-santiago.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Explore trending products this week",
+    "body": "Good news! Your package is out for delivery. Expect it to arrive within the next two days.",
+    "sender": "Williamson-Wallace <no-reply@williamson-wallace.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Online purchase of ₹77,750.27 confirmed",
+    "body": "We confirm receipt of your payment of ₹77,750.27. Thank you for choosing Martinez-Herring.",
+    "sender": "Martinez-Herring <no-reply@martinez-herring.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Your subscription has been renewed",
+    "body": "Here’s your weekly newsletter with updates, tips, and special announcements from our team.",
+    "sender": "May, Quinn and Roberts <no-reply@may,quinnandroberts.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Exciting offers just for you",
+    "body": "We’re hosting an exclusive event this weekend. RSVP now to secure your spot.",
+    "sender": "Sandoval, Turner and Cooper <no-reply@sandoval,turnerandcooper.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Your subscription has been renewed",
+    "body": "You're invited to a special preview of our upcoming collection.",
+    "sender": "Vang-Smith <no-reply@vang-smith.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Weekly newsletter from Jones, Anderson and Harris",
+    "body": "Our biggest sale of the season starts now! Shop your favorites at amazing discounts.",
+    "sender": "Jones, Anderson and Harris <no-reply@jones,andersonandharris.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Reminder: Upcoming event at Benton-Walker",
+    "body": "Hi there, your order is on the way and will reach you soon. Track your shipment with the link below.",
+    "sender": "Benton-Walker <no-reply@benton-walker.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Special invite from Hernandez-Hughes",
+    "body": "Hi there, your order is on the way and will reach you soon. Track your shipment with the link below.",
+    "sender": "Hernandez-Hughes <no-reply@hernandez-hughes.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Weekly newsletter from Salinas, Burgess and Richardson",
+    "body": "Explore this week's most popular items and trending products.",
+    "sender": "Salinas, Burgess and Richardson <no-reply@salinas,burgessandrichardson.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Receipt for your payment of ₹55,404.71",
+    "body": "Dear customer, your payment of ₹55,404.71 to White Group has been successfully processed. Thank you for using our services.",
+    "sender": "White Group <no-reply@whitegroup.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Online purchase of ₹52,051.62 confirmed",
+    "body": "This is your official receipt for the payment of ₹52,051.62 towards Diaz, Escobar and Barnes.",
+    "sender": "Diaz, Escobar and Barnes <no-reply@diaz,escobarandbarnes.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Bill payment of ₹96,738.45 completed",
+    "body": "We confirm receipt of your payment of ₹96,738.45. Thank you for choosing Smith-Cooper.",
+    "sender": "Smith-Cooper <no-reply@smith-cooper.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Your account has been debited by ₹89,849.41",
+    "body": "This is to confirm that your bill payment of ₹89,849.41 to Rivera-Diaz has been completed successfully.",
+    "sender": "Rivera-Diaz <no-reply@rivera-diaz.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Bill payment of ₹40,038.99 completed",
+    "body": "Your account ending with 2218 has been debited by ₹40,038.99 for Edwards, Flynn and Olson.",
+    "sender": "Edwards, Flynn and Olson <no-reply@edwards,flynnandolson.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Payment of ₹48,669.01 successful",
+    "body": "Payment of ₹48,669.01 to Adams, Carson and Brown was successful. Keep this email as your receipt.",
+    "sender": "Adams, Carson and Brown <no-reply@adams,carsonandbrown.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Your account has been debited by ₹33,342.21",
+    "body": "Your account ending with 9128 has been debited by ₹33,342.21 for Whitaker Group.",
+    "sender": "Whitaker Group <no-reply@whitakergroup.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Exclusive sale starts today",
+    "body": "We have handpicked offers and discounts exclusively for you. Don't miss out on these deals!",
+    "sender": "Lawrence, Rivera and Lynch <no-reply@lawrence,riveraandlynch.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Recharge of ₹30,210.02 processed successfully",
+    "body": "We confirm receipt of your payment of ₹30,210.02. Thank you for choosing Dominguez-Rodriguez.",
+    "sender": "Dominguez-Rodriguez <no-reply@dominguez-rodriguez.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Your subscription has been renewed",
+    "body": "Hi there, your order is on the way and will reach you soon. Track your shipment with the link below.",
+    "sender": "Hodges Ltd <no-reply@hodgesltd.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Your account has been debited by ₹38,393.95",
+    "body": "Your transfer of ₹38,393.95 to Harrison Ltd has been credited successfully. Ref No: 6245901617.",
+    "sender": "Harrison Ltd <no-reply@harrisonltd.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Transaction alert: ₹14,890.30 credited",
+    "body": "This is to confirm that your bill payment of ₹14,890.30 to Moore LLC has been completed successfully.",
+    "sender": "Moore LLC <no-reply@moorellc.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Reminder: Upcoming event at Gray PLC",
+    "body": "We have handpicked offers and discounts exclusively for you. Don't miss out on these deals!",
+    "sender": "Gray PLC <no-reply@grayplc.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Transaction alert: ₹73,528.85 credited",
+    "body": "Payment of ₹73,528.85 to King PLC was successful. Keep this email as your receipt.",
+    "sender": "King PLC <no-reply@kingplc.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Exclusive sale starts today",
+    "body": "Check out our latest arrivals and discover products you'll love.",
+    "sender": "Todd Ltd <no-reply@toddltd.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Reminder: Upcoming event at Benitez, Wilson and Perez",
+    "body": "We’re hosting an exclusive event this weekend. RSVP now to secure your spot.",
+    "sender": "Benitez, Wilson and Perez <no-reply@benitez,wilsonandperez.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "UPI payment of ₹86,094.06 made to Fry LLC",
+    "body": "This is to confirm that your bill payment of ₹86,094.06 to Fry LLC has been completed successfully.",
+    "sender": "Fry LLC <no-reply@fryllc.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Invoice paid: ₹75,017.31",
+    "body": "We confirm receipt of your payment of ₹75,017.31. Thank you for choosing Keller, Rivera and Guzman.",
+    "sender": "Keller, Rivera and Guzman <no-reply@keller,riveraandguzman.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "New arrivals in store – check them out",
+    "body": "Hi there, your order is on the way and will reach you soon. Track your shipment with the link below.",
+    "sender": "Rice, Thomas and Dalton <no-reply@rice,thomasanddalton.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Your transfer of ₹6,087.20 was successful",
+    "body": "We confirm receipt of your payment of ₹6,087.20. Thank you for choosing Simmons-Thomas.",
+    "sender": "Simmons-Thomas <no-reply@simmons-thomas.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Your order has been dispatched",
+    "body": "Hi there, your order is on the way and will reach you soon. Track your shipment with the link below.",
+    "sender": "Lucas Inc <no-reply@lucasinc.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Weekly newsletter from Woods-Newton",
+    "body": "We have handpicked offers and discounts exclusively for you. Don't miss out on these deals!",
+    "sender": "Woods-Newton <no-reply@woods-newton.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Special invite from Daniels, Day and Vega",
+    "body": "Hi there, your order is on the way and will reach you soon. Track your shipment with the link below.",
+    "sender": "Daniels, Day and Vega <no-reply@daniels,dayandvega.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "New arrivals in store – check them out",
+    "body": "Check out our latest arrivals and discover products you'll love.",
+    "sender": "Wilson-Castaneda <no-reply@wilson-castaneda.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "New arrivals in store – check them out",
+    "body": "Here’s your weekly newsletter with updates, tips, and special announcements from our team.",
+    "sender": "Krueger, Dawson and Roman <no-reply@krueger,dawsonandroman.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Your account has been debited by ₹10,096.47",
+    "body": "Payment of ₹10,096.47 to Rodriguez Group was successful. Keep this email as your receipt.",
+    "sender": "Rodriguez Group <no-reply@rodriguezgroup.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Payment of ₹93,712.74 successful",
+    "body": "Dear customer, your payment of ₹93,712.74 to Sullivan-Smith has been successfully processed. Thank you for using our services.",
+    "sender": "Sullivan-Smith <no-reply@sullivan-smith.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Your transfer of ₹21,513.20 was successful",
+    "body": "Your account ending with 7403 has been debited by ₹21,513.20 for Anderson PLC.",
+    "sender": "Anderson PLC <no-reply@andersonplc.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Payment of ₹40,062.98 successful",
+    "body": "We have received your payment of ₹40,062.98. Your transaction ID is 7707384358.",
+    "sender": "Baker-Mathis <no-reply@baker-mathis.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Your package is on its way",
+    "body": "You're invited to a special preview of our upcoming collection.",
+    "sender": "Turner PLC <no-reply@turnerplc.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Explore trending products this week",
+    "body": "Good news! Your package is out for delivery. Expect it to arrive within the next two days.",
+    "sender": "Banks Ltd <no-reply@banksltd.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Exciting offers just for you",
+    "body": "We’re hosting an exclusive event this weekend. RSVP now to secure your spot.",
+    "sender": "Gonzalez-Navarro <no-reply@gonzalez-navarro.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Exclusive sale starts today",
+    "body": "Explore this week's most popular items and trending products.",
+    "sender": "Garcia, Rice and Wise <no-reply@garcia,riceandwise.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Online purchase of ₹72,566.77 confirmed",
+    "body": "Your account ending with 1296 has been debited by ₹72,566.77 for Wells-Hernandez.",
+    "sender": "Wells-Hernandez <no-reply@wells-hernandez.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Reminder: Upcoming event at Dominguez, Spencer and Schmidt",
+    "body": "Good news! Your package is out for delivery. Expect it to arrive within the next two days.",
+    "sender": "Dominguez, Spencer and Schmidt <no-reply@dominguez,spencerandschmidt.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Exciting offers just for you",
+    "body": "Our biggest sale of the season starts now! Shop your favorites at amazing discounts.",
+    "sender": "Khan, Norris and Smith <no-reply@khan,norrisandsmith.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Online purchase of ₹23,677.19 confirmed",
+    "body": "Your transfer of ₹23,677.19 to Reynolds-Oliver has been credited successfully. Ref No: 6769180930.",
+    "sender": "Reynolds-Oliver <no-reply@reynolds-oliver.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Exclusive sale starts today",
+    "body": "You're invited to a special preview of our upcoming collection.",
+    "sender": "Williams LLC <no-reply@williamsllc.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Weekly newsletter from Castro and Sons",
+    "body": "We have handpicked offers and discounts exclusively for you. Don't miss out on these deals!",
+    "sender": "Castro and Sons <no-reply@castroandsons.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Explore trending products this week",
+    "body": "We have handpicked offers and discounts exclusively for you. Don't miss out on these deals!",
+    "sender": "Bennett, Cruz and Herrera <no-reply@bennett,cruzandherrera.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Explore trending products this week",
+    "body": "Our biggest sale of the season starts now! Shop your favorites at amazing discounts.",
+    "sender": "Austin LLC <no-reply@austinllc.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Special invite from Diaz-Griffin",
+    "body": "Your subscription has been renewed successfully. Enjoy uninterrupted access to our content.",
+    "sender": "Diaz-Griffin <no-reply@diaz-griffin.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Weekly newsletter from Cox and Sons",
+    "body": "Check out our latest arrivals and discover products you'll love.",
+    "sender": "Cox and Sons <no-reply@coxandsons.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Your package is on its way",
+    "body": "Explore this week's most popular items and trending products.",
+    "sender": "Simmons LLC <no-reply@simmonsllc.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Your package is on its way",
+    "body": "Good news! Your package is out for delivery. Expect it to arrive within the next two days.",
+    "sender": "Parker PLC <no-reply@parkerplc.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Special invite from Brown Group",
+    "body": "Hi there, your order is on the way and will reach you soon. Track your shipment with the link below.",
+    "sender": "Brown Group <no-reply@browngroup.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Your order has been dispatched",
+    "body": "We’re hosting an exclusive event this weekend. RSVP now to secure your spot.",
+    "sender": "Gonzalez-Clayton <no-reply@gonzalez-clayton.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Explore trending products this week",
+    "body": "Explore this week's most popular items and trending products.",
+    "sender": "Young, Frank and Wallace <no-reply@young,frankandwallace.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Exclusive sale starts today",
+    "body": "Hi there, your order is on the way and will reach you soon. Track your shipment with the link below.",
+    "sender": "Medina Inc <no-reply@medinainc.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Transaction alert: ₹48,326.99 credited",
+    "body": "Recharge of ₹48,326.99 to your account with Watts, Fry and Strickland has been completed.",
+    "sender": "Watts, Fry and Strickland <no-reply@watts,fryandstrickland.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Reminder: Upcoming event at Parker and Sons",
+    "body": "Explore this week's most popular items and trending products.",
+    "sender": "Parker and Sons <no-reply@parkerandsons.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Your transfer of ₹78,396.55 was successful",
+    "body": "Recharge of ₹78,396.55 to your account with Rangel and Sons has been completed.",
+    "sender": "Rangel and Sons <no-reply@rangelandsons.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Your order has been dispatched",
+    "body": "You're invited to a special preview of our upcoming collection.",
+    "sender": "Davila-Porter <no-reply@davila-porter.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Exclusive sale starts today",
+    "body": "Here’s your weekly newsletter with updates, tips, and special announcements from our team.",
+    "sender": "Cooke, Alvarez and Nolan <no-reply@cooke,alvarezandnolan.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Online purchase of ₹11,180.11 confirmed",
+    "body": "We confirm receipt of your payment of ₹11,180.11. Thank you for choosing Hernandez-Duran.",
+    "sender": "Hernandez-Duran <no-reply@hernandez-duran.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "UPI payment of ₹79,781.22 made to Hughes LLC",
+    "body": "This is to confirm that your bill payment of ₹79,781.22 to Hughes LLC has been completed successfully.",
+    "sender": "Hughes LLC <no-reply@hughesllc.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Your account has been debited by ₹69,737.29",
+    "body": "Your payment of ₹69,737.29 was processed via UPI. Transaction reference: 2461923754.",
+    "sender": "Moran, Bass and Miller <no-reply@moran,bassandmiller.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Your order has been dispatched",
+    "body": "Hi there, your order is on the way and will reach you soon. Track your shipment with the link below.",
+    "sender": "Ortiz-Fitzpatrick <no-reply@ortiz-fitzpatrick.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Recharge of ₹69,622.68 processed successfully",
+    "body": "Payment of ₹69,622.68 to Coleman, Yang and Hendricks was successful. Keep this email as your receipt.",
+    "sender": "Coleman, Yang and Hendricks <no-reply@coleman,yangandhendricks.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Reminder: Upcoming event at Gay Ltd",
+    "body": "We’re hosting an exclusive event this weekend. RSVP now to secure your spot.",
+    "sender": "Gay Ltd <no-reply@gayltd.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Your subscription has been renewed",
+    "body": "Check out our latest arrivals and discover products you'll love.",
+    "sender": "York LLC <no-reply@yorkllc.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Bill payment of ₹66,169.38 completed",
+    "body": "Your transfer of ₹66,169.38 to Graham PLC has been credited successfully. Ref No: 5778342509.",
+    "sender": "Graham PLC <no-reply@grahamplc.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "UPI payment of ₹9,454.78 made to Petersen, Frost and Hebert",
+    "body": "Your transfer of ₹9,454.78 to Petersen, Frost and Hebert has been credited successfully. Ref No: 2345277427.",
+    "sender": "Petersen, Frost and Hebert <no-reply@petersen,frostandhebert.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Weekly newsletter from Jacobs-Hall",
+    "body": "Your subscription has been renewed successfully. Enjoy uninterrupted access to our content.",
+    "sender": "Jacobs-Hall <no-reply@jacobs-hall.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Payment of ₹53,655.41 successful",
+    "body": "We have received your payment of ₹53,655.41. Your transaction ID is 6267460413.",
+    "sender": "Clark and Sons <no-reply@clarkandsons.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Transaction alert: ₹87,705.92 credited",
+    "body": "This is your official receipt for the payment of ₹87,705.92 towards Blackwell Ltd.",
+    "sender": "Blackwell Ltd <no-reply@blackwellltd.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Your subscription has been renewed",
+    "body": "Good news! Your package is out for delivery. Expect it to arrive within the next two days.",
+    "sender": "Webb-Butler <no-reply@webb-butler.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Receipt for your payment of ₹41,214.66",
+    "body": "We have received your payment of ₹41,214.66. Your transaction ID is 7020369944.",
+    "sender": "Moore Group <no-reply@mooregroup.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Weekly newsletter from Maldonado-Walker",
+    "body": "Your subscription has been renewed successfully. Enjoy uninterrupted access to our content.",
+    "sender": "Maldonado-Walker <no-reply@maldonado-walker.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Payment of ₹25,437.23 successful",
+    "body": "Your transfer of ₹25,437.23 to Skinner-Daniels has been credited successfully. Ref No: 5368444529.",
+    "sender": "Skinner-Daniels <no-reply@skinner-daniels.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Bill payment of ₹17,721.42 completed",
+    "body": "Dear customer, your payment of ₹17,721.42 to Blake, Jones and Lawson has been successfully processed. Thank you for using our services.",
+    "sender": "Blake, Jones and Lawson <no-reply@blake,jonesandlawson.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Recharge of ₹46,504.28 processed successfully",
+    "body": "We have received your payment of ₹46,504.28. Your transaction ID is 1554921184.",
+    "sender": "Cooper Group <no-reply@coopergroup.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Reminder: Upcoming event at Ramirez PLC",
+    "body": "Check out our latest arrivals and discover products you'll love.",
+    "sender": "Ramirez PLC <no-reply@ramirezplc.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Weekly newsletter from Wright, Aguilar and Garcia",
+    "body": "Explore this week's most popular items and trending products.",
+    "sender": "Wright, Aguilar and Garcia <no-reply@wright,aguilarandgarcia.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Your subscription has been renewed",
+    "body": "You're invited to a special preview of our upcoming collection.",
+    "sender": "Harris-Bryan <no-reply@harris-bryan.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Invoice paid: ₹81,016.52",
+    "body": "This is your official receipt for the payment of ₹81,016.52 towards Walker, Jennings and Solis.",
+    "sender": "Walker, Jennings and Solis <no-reply@walker,jenningsandsolis.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Your package is on its way",
+    "body": "Our biggest sale of the season starts now! Shop your favorites at amazing discounts.",
+    "sender": "Wood Ltd <no-reply@woodltd.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Explore trending products this week",
+    "body": "Explore this week's most popular items and trending products.",
+    "sender": "Torres and Sons <no-reply@torresandsons.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Weekly newsletter from Warren Inc",
+    "body": "Check out our latest arrivals and discover products you'll love.",
+    "sender": "Warren Inc <no-reply@warreninc.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Your package is on its way",
+    "body": "Here’s your weekly newsletter with updates, tips, and special announcements from our team.",
+    "sender": "Castaneda, Richards and Boone <no-reply@castaneda,richardsandboone.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Invoice paid: ₹60,037.39",
+    "body": "This is your official receipt for the payment of ₹60,037.39 towards Murray, Proctor and Roberts.",
+    "sender": "Murray, Proctor and Roberts <no-reply@murray,proctorandroberts.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Online purchase of ₹7,766.56 confirmed",
+    "body": "We confirm receipt of your payment of ₹7,766.56. Thank you for choosing Oconnor Ltd.",
+    "sender": "Oconnor Ltd <no-reply@oconnorltd.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Exciting offers just for you",
+    "body": "Our biggest sale of the season starts now! Shop your favorites at amazing discounts.",
+    "sender": "Gonzalez LLC <no-reply@gonzalezllc.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Recharge of ₹23,304.50 processed successfully",
+    "body": "Your payment of ₹23,304.50 was processed via UPI. Transaction reference: 2953676676.",
+    "sender": "Lang, Morris and Thomas <no-reply@lang,morrisandthomas.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Explore trending products this week",
+    "body": "We have handpicked offers and discounts exclusively for you. Don't miss out on these deals!",
+    "sender": "Hernandez-Gonzalez <no-reply@hernandez-gonzalez.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Your transfer of ₹13,391.51 was successful",
+    "body": "This is your official receipt for the payment of ₹13,391.51 towards Acosta-Davenport.",
+    "sender": "Acosta-Davenport <no-reply@acosta-davenport.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Exclusive sale starts today",
+    "body": "We have handpicked offers and discounts exclusively for you. Don't miss out on these deals!",
+    "sender": "Mcclure, Marshall and White <no-reply@mcclure,marshallandwhite.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Invoice paid: ₹11,434.54",
+    "body": "Payment of ₹11,434.54 to Liu, Mejia and Love was successful. Keep this email as your receipt.",
+    "sender": "Liu, Mejia and Love <no-reply@liu,mejiaandlove.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Invoice paid: ₹43,788.50",
+    "body": "Recharge of ₹43,788.50 to your account with Spencer Ltd has been completed.",
+    "sender": "Spencer Ltd <no-reply@spencerltd.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Your transfer of ₹24,397.16 was successful",
+    "body": "This is your official receipt for the payment of ₹24,397.16 towards Parks, Shaffer and Massey.",
+    "sender": "Parks, Shaffer and Massey <no-reply@parks,shafferandmassey.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "UPI payment of ₹47,254.81 made to Ramirez Group",
+    "body": "Your account ending with 9795 has been debited by ₹47,254.81 for Ramirez Group.",
+    "sender": "Ramirez Group <no-reply@ramirezgroup.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Your account has been debited by ₹52,060.12",
+    "body": "We confirm receipt of your payment of ₹52,060.12. Thank you for choosing Jennings PLC.",
+    "sender": "Jennings PLC <no-reply@jenningsplc.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Bill payment of ₹87,788.68 completed",
+    "body": "Your account ending with 2634 has been debited by ₹87,788.68 for Stevens-Barnes.",
+    "sender": "Stevens-Barnes <no-reply@stevens-barnes.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Exciting offers just for you",
+    "body": "We’re hosting an exclusive event this weekend. RSVP now to secure your spot.",
+    "sender": "Thompson, Christensen and Edwards <no-reply@thompson,christensenandedwards.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Exciting offers just for you",
+    "body": "Here’s your weekly newsletter with updates, tips, and special announcements from our team.",
+    "sender": "Stone and Sons <no-reply@stoneandsons.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Receipt for your payment of ₹28,340.81",
+    "body": "We confirm receipt of your payment of ₹28,340.81. Thank you for choosing Brown, Cummings and Williams.",
+    "sender": "Brown, Cummings and Williams <no-reply@brown,cummingsandwilliams.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Invoice paid: ₹14,797.59",
+    "body": "We confirm receipt of your payment of ₹14,797.59. Thank you for choosing Smith, Gutierrez and Fields.",
+    "sender": "Smith, Gutierrez and Fields <no-reply@smith,gutierrezandfields.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Recharge of ₹39,653.35 processed successfully",
+    "body": "We have received your payment of ₹39,653.35. Your transaction ID is 7728860813.",
+    "sender": "Craig, Gallegos and Love <no-reply@craig,gallegosandlove.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Online purchase of ₹21,885.01 confirmed",
+    "body": "Payment of ₹21,885.01 to Thomas, King and Sanders was successful. Keep this email as your receipt.",
+    "sender": "Thomas, King and Sanders <no-reply@thomas,kingandsanders.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Your subscription has been renewed",
+    "body": "Here’s your weekly newsletter with updates, tips, and special announcements from our team.",
+    "sender": "Norton-Horton <no-reply@norton-horton.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Online purchase of ₹46,843.98 confirmed",
+    "body": "Your transfer of ₹46,843.98 to Williams, Rogers and Strickland has been credited successfully. Ref No: 5901185070.",
+    "sender": "Williams, Rogers and Strickland <no-reply@williams,rogersandstrickland.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Invoice paid: ₹72,473.83",
+    "body": "Dear customer, your payment of ₹72,473.83 to Wade, Davis and Fleming has been successfully processed. Thank you for using our services.",
+    "sender": "Wade, Davis and Fleming <no-reply@wade,davisandfleming.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Recharge of ₹63,313.63 processed successfully",
+    "body": "Payment of ₹63,313.63 to Thompson-Carroll was successful. Keep this email as your receipt.",
+    "sender": "Thompson-Carroll <no-reply@thompson-carroll.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Exclusive sale starts today",
+    "body": "Our biggest sale of the season starts now! Shop your favorites at amazing discounts.",
+    "sender": "Morrison Group <no-reply@morrisongroup.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Reminder: Upcoming event at Duffy PLC",
+    "body": "Hi there, your order is on the way and will reach you soon. Track your shipment with the link below.",
+    "sender": "Duffy PLC <no-reply@duffyplc.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Exclusive sale starts today",
+    "body": "Hi there, your order is on the way and will reach you soon. Track your shipment with the link below.",
+    "sender": "Wilson, Barnes and Munoz <no-reply@wilson,barnesandmunoz.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Exciting offers just for you",
+    "body": "Good news! Your package is out for delivery. Expect it to arrive within the next two days.",
+    "sender": "Montgomery, Rojas and Carlson <no-reply@montgomery,rojasandcarlson.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Explore trending products this week",
+    "body": "We have handpicked offers and discounts exclusively for you. Don't miss out on these deals!",
+    "sender": "Scott-Baker <no-reply@scott-baker.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Exclusive sale starts today",
+    "body": "Hi there, your order is on the way and will reach you soon. Track your shipment with the link below.",
+    "sender": "Swanson Ltd <no-reply@swansonltd.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Payment of ₹71,399.50 successful",
+    "body": "Payment of ₹71,399.50 to Brown, Scott and Wright was successful. Keep this email as your receipt.",
+    "sender": "Brown, Scott and Wright <no-reply@brown,scottandwright.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "UPI payment of ₹77,880.53 made to Flores-Copeland",
+    "body": "Your account ending with 6733 has been debited by ₹77,880.53 for Flores-Copeland.",
+    "sender": "Flores-Copeland <no-reply@flores-copeland.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Invoice paid: ₹73,636.47",
+    "body": "Payment of ₹73,636.47 to Guerra-Wright was successful. Keep this email as your receipt.",
+    "sender": "Guerra-Wright <no-reply@guerra-wright.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Exclusive sale starts today",
+    "body": "Our biggest sale of the season starts now! Shop your favorites at amazing discounts.",
+    "sender": "Pennington-Richardson <no-reply@pennington-richardson.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Weekly newsletter from Norris, Allen and Johnson",
+    "body": "We have handpicked offers and discounts exclusively for you. Don't miss out on these deals!",
+    "sender": "Norris, Allen and Johnson <no-reply@norris,allenandjohnson.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Your subscription has been renewed",
+    "body": "You're invited to a special preview of our upcoming collection.",
+    "sender": "Patrick-Meyer <no-reply@patrick-meyer.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Exclusive sale starts today",
+    "body": "Here’s your weekly newsletter with updates, tips, and special announcements from our team.",
+    "sender": "Murphy-Nicholson <no-reply@murphy-nicholson.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Your account has been debited by ₹86,985.81",
+    "body": "Dear customer, your payment of ₹86,985.81 to Howell-Jones has been successfully processed. Thank you for using our services.",
+    "sender": "Howell-Jones <no-reply@howell-jones.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Bill payment of ₹80,937.64 completed",
+    "body": "This is your official receipt for the payment of ₹80,937.64 towards Schneider Group.",
+    "sender": "Schneider Group <no-reply@schneidergroup.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Explore trending products this week",
+    "body": "We have handpicked offers and discounts exclusively for you. Don't miss out on these deals!",
+    "sender": "Wallace LLC <no-reply@wallacellc.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Recharge of ₹7,572.28 processed successfully",
+    "body": "Dear customer, your payment of ₹7,572.28 to Moore, Davis and Vang has been successfully processed. Thank you for using our services.",
+    "sender": "Moore, Davis and Vang <no-reply@moore,davisandvang.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Reminder: Upcoming event at Bradley Group",
+    "body": "Your subscription has been renewed successfully. Enjoy uninterrupted access to our content.",
+    "sender": "Bradley Group <no-reply@bradleygroup.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "UPI payment of ₹87,422.80 made to Cervantes, Mcintyre and Lewis",
+    "body": "This is to confirm that your bill payment of ₹87,422.80 to Cervantes, Mcintyre and Lewis has been completed successfully.",
+    "sender": "Cervantes, Mcintyre and Lewis <no-reply@cervantes,mcintyreandlewis.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Reminder: Upcoming event at Williams Group",
+    "body": "Good news! Your package is out for delivery. Expect it to arrive within the next two days.",
+    "sender": "Williams Group <no-reply@williamsgroup.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Payment of ₹6,471.14 successful",
+    "body": "Your payment of ₹6,471.14 was processed via UPI. Transaction reference: 3135544025.",
+    "sender": "Aguirre and Sons <no-reply@aguirreandsons.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Explore trending products this week",
+    "body": "We have handpicked offers and discounts exclusively for you. Don't miss out on these deals!",
+    "sender": "Ryan-Torres <no-reply@ryan-torres.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Receipt for your payment of ₹96,978.22",
+    "body": "We confirm receipt of your payment of ₹96,978.22. Thank you for choosing Rocha, Davis and Weaver.",
+    "sender": "Rocha, Davis and Weaver <no-reply@rocha,davisandweaver.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Weekly newsletter from Goodwin-Wilkerson",
+    "body": "Check out our latest arrivals and discover products you'll love.",
+    "sender": "Goodwin-Wilkerson <no-reply@goodwin-wilkerson.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Transaction alert: ₹28,502.88 credited",
+    "body": "Your payment of ₹28,502.88 was processed via UPI. Transaction reference: 5219683481.",
+    "sender": "Collier, Grant and Sheppard <no-reply@collier,grantandsheppard.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Transaction alert: ₹35,601.91 credited",
+    "body": "Your payment of ₹35,601.91 was processed via UPI. Transaction reference: 4403348239.",
+    "sender": "Rhodes Group <no-reply@rhodesgroup.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Bill payment of ₹57,449.54 completed",
+    "body": "Dear customer, your payment of ₹57,449.54 to Reed, Wall and Wilson has been successfully processed. Thank you for using our services.",
+    "sender": "Reed, Wall and Wilson <no-reply@reed,wallandwilson.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Your package is on its way",
+    "body": "You're invited to a special preview of our upcoming collection.",
+    "sender": "Harris-Cruz <no-reply@harris-cruz.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Your transfer of ₹4,428.02 was successful",
+    "body": "This is to confirm that your bill payment of ₹4,428.02 to Hill Group has been completed successfully.",
+    "sender": "Hill Group <no-reply@hillgroup.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Special invite from Yates-Johnston",
+    "body": "Explore this week's most popular items and trending products.",
+    "sender": "Yates-Johnston <no-reply@yates-johnston.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Bill payment of ₹44,617.12 completed",
+    "body": "Your payment of ₹44,617.12 was processed via UPI. Transaction reference: 1835507548.",
+    "sender": "Reynolds, Miller and Robinson <no-reply@reynolds,millerandrobinson.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Explore trending products this week",
+    "body": "You're invited to a special preview of our upcoming collection.",
+    "sender": "Gonzalez LLC <no-reply@gonzalezllc.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Special invite from Ballard-Moore",
+    "body": "Explore this week's most popular items and trending products.",
+    "sender": "Ballard-Moore <no-reply@ballard-moore.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Recharge of ₹70,659.19 processed successfully",
+    "body": "Your payment of ₹70,659.19 was processed via UPI. Transaction reference: 9030430078.",
+    "sender": "Bradley PLC <no-reply@bradleyplc.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Recharge of ₹98,414.17 processed successfully",
+    "body": "Your account ending with 1697 has been debited by ₹98,414.17 for Bryant, Dean and Perez.",
+    "sender": "Bryant, Dean and Perez <no-reply@bryant,deanandperez.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Payment of ₹10,061.42 successful",
+    "body": "Your payment of ₹10,061.42 was processed via UPI. Transaction reference: 8143584311.",
+    "sender": "Bentley Group <no-reply@bentleygroup.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Transaction alert: ₹6,399.26 credited",
+    "body": "Your account ending with 7674 has been debited by ₹6,399.26 for Skinner Inc.",
+    "sender": "Skinner Inc <no-reply@skinnerinc.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Exciting offers just for you",
+    "body": "We’re hosting an exclusive event this weekend. RSVP now to secure your spot.",
+    "sender": "Morris, Jordan and Mcguire <no-reply@morris,jordanandmcguire.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "UPI payment of ₹96,585.65 made to Meza, Parrish and Solomon",
+    "body": "Your account ending with 7073 has been debited by ₹96,585.65 for Meza, Parrish and Solomon.",
+    "sender": "Meza, Parrish and Solomon <no-reply@meza,parrishandsolomon.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Your package is on its way",
+    "body": "Your subscription has been renewed successfully. Enjoy uninterrupted access to our content.",
+    "sender": "Johnson, Clark and Moore <no-reply@johnson,clarkandmoore.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Your order has been dispatched",
+    "body": "You're invited to a special preview of our upcoming collection.",
+    "sender": "James LLC <no-reply@jamesllc.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Transaction alert: ₹58,879.96 credited",
+    "body": "Your payment of ₹58,879.96 was processed via UPI. Transaction reference: 1684974506.",
+    "sender": "Smith and Sons <no-reply@smithandsons.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Exciting offers just for you",
+    "body": "Check out our latest arrivals and discover products you'll love.",
+    "sender": "Vazquez, Daugherty and Hooper <no-reply@vazquez,daughertyandhooper.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Bill payment of ₹79,086.11 completed",
+    "body": "Dear customer, your payment of ₹79,086.11 to Gonzales LLC has been successfully processed. Thank you for using our services.",
+    "sender": "Gonzales LLC <no-reply@gonzalesllc.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Exclusive sale starts today",
+    "body": "Hi there, your order is on the way and will reach you soon. Track your shipment with the link below.",
+    "sender": "Hanson and Sons <no-reply@hansonandsons.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Bill payment of ₹43,116.64 completed",
+    "body": "This is your official receipt for the payment of ₹43,116.64 towards Wagner-Casey.",
+    "sender": "Wagner-Casey <no-reply@wagner-casey.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Transaction alert: ₹46,991.23 credited",
+    "body": "Dear customer, your payment of ₹46,991.23 to Watts, Hood and Ryan has been successfully processed. Thank you for using our services.",
+    "sender": "Watts, Hood and Ryan <no-reply@watts,hoodandryan.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Your package is on its way",
+    "body": "Here’s your weekly newsletter with updates, tips, and special announcements from our team.",
+    "sender": "Harris, Vincent and Ellis <no-reply@harris,vincentandellis.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Receipt for your payment of ₹24,780.24",
+    "body": "Dear customer, your payment of ₹24,780.24 to Kaiser and Sons has been successfully processed. Thank you for using our services.",
+    "sender": "Kaiser and Sons <no-reply@kaiserandsons.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Recharge of ₹66,690.11 processed successfully",
+    "body": "This is your official receipt for the payment of ₹66,690.11 towards Obrien LLC.",
+    "sender": "Obrien LLC <no-reply@obrienllc.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Online purchase of ₹91,523.55 confirmed",
+    "body": "This is your official receipt for the payment of ₹91,523.55 towards Avila, Bishop and Oneill.",
+    "sender": "Avila, Bishop and Oneill <no-reply@avila,bishopandoneill.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Exclusive sale starts today",
+    "body": "Your subscription has been renewed successfully. Enjoy uninterrupted access to our content.",
+    "sender": "Graham LLC <no-reply@grahamllc.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Exciting offers just for you",
+    "body": "Your subscription has been renewed successfully. Enjoy uninterrupted access to our content.",
+    "sender": "Johnson, Valdez and Sims <no-reply@johnson,valdezandsims.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Weekly newsletter from Green PLC",
+    "body": "Hi there, your order is on the way and will reach you soon. Track your shipment with the link below.",
+    "sender": "Green PLC <no-reply@greenplc.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "UPI payment of ₹74,595.98 made to Wells-Wilson",
+    "body": "This is your official receipt for the payment of ₹74,595.98 towards Wells-Wilson.",
+    "sender": "Wells-Wilson <no-reply@wells-wilson.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "New arrivals in store – check them out",
+    "body": "Explore this week's most popular items and trending products.",
+    "sender": "Martin, Richmond and Sullivan <no-reply@martin,richmondandsullivan.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Weekly newsletter from Robinson-Hardin",
+    "body": "Good news! Your package is out for delivery. Expect it to arrive within the next two days.",
+    "sender": "Robinson-Hardin <no-reply@robinson-hardin.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Transaction alert: ₹2,313.81 credited",
+    "body": "Payment of ₹2,313.81 to Moore-Harris was successful. Keep this email as your receipt.",
+    "sender": "Moore-Harris <no-reply@moore-harris.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Receipt for your payment of ₹80,314.15",
+    "body": "Your transfer of ₹80,314.15 to Jordan, Todd and Smith has been credited successfully. Ref No: 3530114839.",
+    "sender": "Jordan, Todd and Smith <no-reply@jordan,toddandsmith.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "New arrivals in store – check them out",
+    "body": "Here’s your weekly newsletter with updates, tips, and special announcements from our team.",
+    "sender": "Jones, Bolton and Rivera <no-reply@jones,boltonandrivera.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "New arrivals in store – check them out",
+    "body": "Hi there, your order is on the way and will reach you soon. Track your shipment with the link below.",
+    "sender": "Kennedy, Fleming and Sutton <no-reply@kennedy,flemingandsutton.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Special invite from Campbell-Kelly",
+    "body": "Here’s your weekly newsletter with updates, tips, and special announcements from our team.",
+    "sender": "Campbell-Kelly <no-reply@campbell-kelly.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Transaction alert: ₹42,608.56 credited",
+    "body": "This is to confirm that your bill payment of ₹42,608.56 to Watson-Garrett has been completed successfully.",
+    "sender": "Watson-Garrett <no-reply@watson-garrett.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Recharge of ₹13,472.22 processed successfully",
+    "body": "Your transfer of ₹13,472.22 to Martin-Wood has been credited successfully. Ref No: 1753779193.",
+    "sender": "Martin-Wood <no-reply@martin-wood.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Transaction alert: ₹13,680.01 credited",
+    "body": "We have received your payment of ₹13,680.01. Your transaction ID is 2913592893.",
+    "sender": "Waters, Smith and Nixon <no-reply@waters,smithandnixon.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Reminder: Upcoming event at Vargas, Cordova and Flores",
+    "body": "Explore this week's most popular items and trending products.",
+    "sender": "Vargas, Cordova and Flores <no-reply@vargas,cordovaandflores.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Payment of ₹95,562.08 successful",
+    "body": "Recharge of ₹95,562.08 to your account with Hopkins-Rivas has been completed.",
+    "sender": "Hopkins-Rivas <no-reply@hopkins-rivas.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Your subscription has been renewed",
+    "body": "We have handpicked offers and discounts exclusively for you. Don't miss out on these deals!",
+    "sender": "Lane Ltd <no-reply@laneltd.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Payment of ₹96,765.88 successful",
+    "body": "Dear customer, your payment of ₹96,765.88 to Warren, Green and Wilson has been successfully processed. Thank you for using our services.",
+    "sender": "Warren, Green and Wilson <no-reply@warren,greenandwilson.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Your order has been dispatched",
+    "body": "Check out our latest arrivals and discover products you'll love.",
+    "sender": "Brown, Edwards and Briggs <no-reply@brown,edwardsandbriggs.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Explore trending products this week",
+    "body": "Your subscription has been renewed successfully. Enjoy uninterrupted access to our content.",
+    "sender": "Marshall Ltd <no-reply@marshallltd.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Recharge of ₹54,878.78 processed successfully",
+    "body": "Your payment of ₹54,878.78 was processed via UPI. Transaction reference: 1268211135.",
+    "sender": "Adams, Sheppard and Green <no-reply@adams,sheppardandgreen.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Payment of ₹82,353.88 successful",
+    "body": "This is to confirm that your bill payment of ₹82,353.88 to Hall-Dixon has been completed successfully.",
+    "sender": "Hall-Dixon <no-reply@hall-dixon.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Payment of ₹2,351.67 successful",
+    "body": "This is your official receipt for the payment of ₹2,351.67 towards Holmes Ltd.",
+    "sender": "Holmes Ltd <no-reply@holmesltd.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Recharge of ₹78,015.52 processed successfully",
+    "body": "Your transfer of ₹78,015.52 to Price-Ayala has been credited successfully. Ref No: 2234759461.",
+    "sender": "Price-Ayala <no-reply@price-ayala.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Transaction alert: ₹76,705.85 credited",
+    "body": "Payment of ₹76,705.85 to Espinoza, Hunt and Thompson was successful. Keep this email as your receipt.",
+    "sender": "Espinoza, Hunt and Thompson <no-reply@espinoza,huntandthompson.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Receipt for your payment of ₹38,097.37",
+    "body": "Your payment of ₹38,097.37 was processed via UPI. Transaction reference: 6592227466.",
+    "sender": "Taylor Inc <no-reply@taylorinc.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Your subscription has been renewed",
+    "body": "Explore this week's most popular items and trending products.",
+    "sender": "David PLC <no-reply@davidplc.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Weekly newsletter from Christensen, Martinez and Gardner",
+    "body": "Explore this week's most popular items and trending products.",
+    "sender": "Christensen, Martinez and Gardner <no-reply@christensen,martinezandgardner.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Recharge of ₹42,015.59 processed successfully",
+    "body": "Dear customer, your payment of ₹42,015.59 to Garcia-Little has been successfully processed. Thank you for using our services.",
+    "sender": "Garcia-Little <no-reply@garcia-little.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Reminder: Upcoming event at Chandler, Dunn and Smith",
+    "body": "Check out our latest arrivals and discover products you'll love.",
+    "sender": "Chandler, Dunn and Smith <no-reply@chandler,dunnandsmith.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Recharge of ₹40,783.28 processed successfully",
+    "body": "Recharge of ₹40,783.28 to your account with Vasquez-Maxwell has been completed.",
+    "sender": "Vasquez-Maxwell <no-reply@vasquez-maxwell.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Your order has been dispatched",
+    "body": "Check out our latest arrivals and discover products you'll love.",
+    "sender": "Kim, Hernandez and Davis <no-reply@kim,hernandezanddavis.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Your transfer of ₹49,622.18 was successful",
+    "body": "This is your official receipt for the payment of ₹49,622.18 towards Barton, Martinez and Clark.",
+    "sender": "Barton, Martinez and Clark <no-reply@barton,martinezandclark.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Bill payment of ₹75,433.12 completed",
+    "body": "Your transfer of ₹75,433.12 to Callahan-Guerra has been credited successfully. Ref No: 5889243948.",
+    "sender": "Callahan-Guerra <no-reply@callahan-guerra.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Online purchase of ₹16,041.25 confirmed",
+    "body": "Recharge of ₹16,041.25 to your account with Lamb, Washington and Gonzalez has been completed.",
+    "sender": "Lamb, Washington and Gonzalez <no-reply@lamb,washingtonandgonzalez.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Payment of ₹11,114.57 successful",
+    "body": "Your payment of ₹11,114.57 was processed via UPI. Transaction reference: 1285873517.",
+    "sender": "Smith and Sons <no-reply@smithandsons.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Weekly newsletter from Garcia, Holmes and Christian",
+    "body": "Explore this week's most popular items and trending products.",
+    "sender": "Garcia, Holmes and Christian <no-reply@garcia,holmesandchristian.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "UPI payment of ₹86,399.23 made to Henry-Lewis",
+    "body": "This is to confirm that your bill payment of ₹86,399.23 to Henry-Lewis has been completed successfully.",
+    "sender": "Henry-Lewis <no-reply@henry-lewis.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Explore trending products this week",
+    "body": "Here’s your weekly newsletter with updates, tips, and special announcements from our team.",
+    "sender": "Ward Ltd <no-reply@wardltd.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Payment of ₹22,780.29 successful",
+    "body": "This is to confirm that your bill payment of ₹22,780.29 to Knox-Mathis has been completed successfully.",
+    "sender": "Knox-Mathis <no-reply@knox-mathis.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Invoice paid: ₹52,445.44",
+    "body": "Your account ending with 3322 has been debited by ₹52,445.44 for Lucero-Bonilla.",
+    "sender": "Lucero-Bonilla <no-reply@lucero-bonilla.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Your subscription has been renewed",
+    "body": "Here’s your weekly newsletter with updates, tips, and special announcements from our team.",
+    "sender": "Martin LLC <no-reply@martinllc.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "New arrivals in store – check them out",
+    "body": "We have handpicked offers and discounts exclusively for you. Don't miss out on these deals!",
+    "sender": "Thomas-Smith <no-reply@thomas-smith.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Your package is on its way",
+    "body": "You're invited to a special preview of our upcoming collection.",
+    "sender": "Solis, Calderon and Elliott <no-reply@solis,calderonandelliott.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Your subscription has been renewed",
+    "body": "We have handpicked offers and discounts exclusively for you. Don't miss out on these deals!",
+    "sender": "Ortega-Meyer <no-reply@ortega-meyer.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Explore trending products this week",
+    "body": "We have handpicked offers and discounts exclusively for you. Don't miss out on these deals!",
+    "sender": "Hayes LLC <no-reply@hayesllc.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Special invite from Holt, Wallace and Booth",
+    "body": "Good news! Your package is out for delivery. Expect it to arrive within the next two days.",
+    "sender": "Holt, Wallace and Booth <no-reply@holt,wallaceandbooth.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Your subscription has been renewed",
+    "body": "We have handpicked offers and discounts exclusively for you. Don't miss out on these deals!",
+    "sender": "Gutierrez PLC <no-reply@gutierrezplc.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Online purchase of ₹40,378.61 confirmed",
+    "body": "Your transfer of ₹40,378.61 to Taylor and Sons has been credited successfully. Ref No: 9163730294.",
+    "sender": "Taylor and Sons <no-reply@taylorandsons.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Exclusive sale starts today",
+    "body": "Our biggest sale of the season starts now! Shop your favorites at amazing discounts.",
+    "sender": "Robinson, Johnson and Spears <no-reply@robinson,johnsonandspears.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Your order has been dispatched",
+    "body": "We have handpicked offers and discounts exclusively for you. Don't miss out on these deals!",
+    "sender": "Morris PLC <no-reply@morrisplc.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Online purchase of ₹98,008.10 confirmed",
+    "body": "Recharge of ₹98,008.10 to your account with Simpson, Fox and Short has been completed.",
+    "sender": "Simpson, Fox and Short <no-reply@simpson,foxandshort.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Your package is on its way",
+    "body": "We’re hosting an exclusive event this weekend. RSVP now to secure your spot.",
+    "sender": "Tyler-Newton <no-reply@tyler-newton.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Recharge of ₹21,599.51 processed successfully",
+    "body": "Your transfer of ₹21,599.51 to Walter, Mckay and Reilly has been credited successfully. Ref No: 2970019599.",
+    "sender": "Walter, Mckay and Reilly <no-reply@walter,mckayandreilly.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Explore trending products this week",
+    "body": "Our biggest sale of the season starts now! Shop your favorites at amazing discounts.",
+    "sender": "Guerrero-Wood <no-reply@guerrero-wood.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Online purchase of ₹78,857.23 confirmed",
+    "body": "Your payment of ₹78,857.23 was processed via UPI. Transaction reference: 9750714819.",
+    "sender": "Steele, Allen and Moody <no-reply@steele,allenandmoody.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Your order has been dispatched",
+    "body": "Good news! Your package is out for delivery. Expect it to arrive within the next two days.",
+    "sender": "Miller LLC <no-reply@millerllc.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Exciting offers just for you",
+    "body": "Our biggest sale of the season starts now! Shop your favorites at amazing discounts.",
+    "sender": "Gardner LLC <no-reply@gardnerllc.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Reminder: Upcoming event at Newton Ltd",
+    "body": "Good news! Your package is out for delivery. Expect it to arrive within the next two days.",
+    "sender": "Newton Ltd <no-reply@newtonltd.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Weekly newsletter from Nguyen LLC",
+    "body": "Here’s your weekly newsletter with updates, tips, and special announcements from our team.",
+    "sender": "Nguyen LLC <no-reply@nguyenllc.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Your account has been debited by ₹56,018.78",
+    "body": "This is your official receipt for the payment of ₹56,018.78 towards Stanton, Ray and Woodard.",
+    "sender": "Stanton, Ray and Woodard <no-reply@stanton,rayandwoodard.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Online purchase of ₹88,919.60 confirmed",
+    "body": "We have received your payment of ₹88,919.60. Your transaction ID is 3701200744.",
+    "sender": "Lowe, Gilbert and Wright <no-reply@lowe,gilbertandwright.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Your transfer of ₹54,356.84 was successful",
+    "body": "Your transfer of ₹54,356.84 to Newton and Sons has been credited successfully. Ref No: 2866698147.",
+    "sender": "Newton and Sons <no-reply@newtonandsons.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Invoice paid: ₹3,764.33",
+    "body": "Your account ending with 1161 has been debited by ₹3,764.33 for Hughes Ltd.",
+    "sender": "Hughes Ltd <no-reply@hughesltd.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Special invite from Smith LLC",
+    "body": "Hi there, your order is on the way and will reach you soon. Track your shipment with the link below.",
+    "sender": "Smith LLC <no-reply@smithllc.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "New arrivals in store – check them out",
+    "body": "Here’s your weekly newsletter with updates, tips, and special announcements from our team.",
+    "sender": "Schmidt PLC <no-reply@schmidtplc.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Exciting offers just for you",
+    "body": "Good news! Your package is out for delivery. Expect it to arrive within the next two days.",
+    "sender": "Singleton, Lopez and Nash <no-reply@singleton,lopezandnash.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Explore trending products this week",
+    "body": "Explore this week's most popular items and trending products.",
+    "sender": "Young PLC <no-reply@youngplc.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Weekly newsletter from Morales, Arnold and Moore",
+    "body": "We’re hosting an exclusive event this weekend. RSVP now to secure your spot.",
+    "sender": "Morales, Arnold and Moore <no-reply@morales,arnoldandmoore.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Transaction alert: ₹32,838.28 credited",
+    "body": "Dear customer, your payment of ₹32,838.28 to Owens-Lopez has been successfully processed. Thank you for using our services.",
+    "sender": "Owens-Lopez <no-reply@owens-lopez.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Your account has been debited by ₹67,273.86",
+    "body": "Your account ending with 4820 has been debited by ₹67,273.86 for Sutton-Obrien.",
+    "sender": "Sutton-Obrien <no-reply@sutton-obrien.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Your subscription has been renewed",
+    "body": "We’re hosting an exclusive event this weekend. RSVP now to secure your spot.",
+    "sender": "Jennings-Carter <no-reply@jennings-carter.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Your package is on its way",
+    "body": "Check out our latest arrivals and discover products you'll love.",
+    "sender": "Ochoa, Brady and Larson <no-reply@ochoa,bradyandlarson.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "New arrivals in store – check them out",
+    "body": "Good news! Your package is out for delivery. Expect it to arrive within the next two days.",
+    "sender": "Phillips-Hebert <no-reply@phillips-hebert.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "New arrivals in store – check them out",
+    "body": "Check out our latest arrivals and discover products you'll love.",
+    "sender": "Hester-Brown <no-reply@hester-brown.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Special invite from Mccormick, Jones and Jones",
+    "body": "Hi there, your order is on the way and will reach you soon. Track your shipment with the link below.",
+    "sender": "Mccormick, Jones and Jones <no-reply@mccormick,jonesandjones.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Invoice paid: ₹70,287.89",
+    "body": "Your transfer of ₹70,287.89 to Miller-Rodriguez has been credited successfully. Ref No: 4900941556.",
+    "sender": "Miller-Rodriguez <no-reply@miller-rodriguez.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Your subscription has been renewed",
+    "body": "Good news! Your package is out for delivery. Expect it to arrive within the next two days.",
+    "sender": "Allen LLC <no-reply@allenllc.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Bill payment of ₹93,503.32 completed",
+    "body": "We confirm receipt of your payment of ₹93,503.32. Thank you for choosing Gonzalez LLC.",
+    "sender": "Gonzalez LLC <no-reply@gonzalezllc.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Your subscription has been renewed",
+    "body": "Hi there, your order is on the way and will reach you soon. Track your shipment with the link below.",
+    "sender": "Munoz and Sons <no-reply@munozandsons.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Exclusive sale starts today",
+    "body": "Check out our latest arrivals and discover products you'll love.",
+    "sender": "Garcia, Walker and Pitts <no-reply@garcia,walkerandpitts.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Reminder: Upcoming event at Luna, Sanchez and Rice",
+    "body": "We have handpicked offers and discounts exclusively for you. Don't miss out on these deals!",
+    "sender": "Luna, Sanchez and Rice <no-reply@luna,sanchezandrice.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Your account has been debited by ₹46,305.13",
+    "body": "We confirm receipt of your payment of ₹46,305.13. Thank you for choosing Turner, Rogers and Day.",
+    "sender": "Turner, Rogers and Day <no-reply@turner,rogersandday.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Your order has been dispatched",
+    "body": "Check out our latest arrivals and discover products you'll love.",
+    "sender": "Small-Page <no-reply@small-page.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Reminder: Upcoming event at Bell, Torres and Sanchez",
+    "body": "We have handpicked offers and discounts exclusively for you. Don't miss out on these deals!",
+    "sender": "Bell, Torres and Sanchez <no-reply@bell,torresandsanchez.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Reminder: Upcoming event at Aguilar-Williams",
+    "body": "You're invited to a special preview of our upcoming collection.",
+    "sender": "Aguilar-Williams <no-reply@aguilar-williams.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Payment of ₹54,186.28 successful",
+    "body": "Dear customer, your payment of ₹54,186.28 to Reynolds, Ross and Sims has been successfully processed. Thank you for using our services.",
+    "sender": "Reynolds, Ross and Sims <no-reply@reynolds,rossandsims.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Your transfer of ₹70,113.82 was successful",
+    "body": "Your account ending with 9697 has been debited by ₹70,113.82 for Schmidt and Sons.",
+    "sender": "Schmidt and Sons <no-reply@schmidtandsons.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Online purchase of ₹6,516.70 confirmed",
+    "body": "Your account ending with 1746 has been debited by ₹6,516.70 for Underwood Group.",
+    "sender": "Underwood Group <no-reply@underwoodgroup.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Your transfer of ₹16,677.10 was successful",
+    "body": "Dear customer, your payment of ₹16,677.10 to Stanley-Harvey has been successfully processed. Thank you for using our services.",
+    "sender": "Stanley-Harvey <no-reply@stanley-harvey.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Payment of ₹22,848.35 successful",
+    "body": "We have received your payment of ₹22,848.35. Your transaction ID is 8051283796.",
+    "sender": "Bailey, Brown and Moon <no-reply@bailey,brownandmoon.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Exciting offers just for you",
+    "body": "Your subscription has been renewed successfully. Enjoy uninterrupted access to our content.",
+    "sender": "Flores Ltd <no-reply@floresltd.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Bill payment of ₹95,537.76 completed",
+    "body": "Your transfer of ₹95,537.76 to Campbell, Thomas and Kane has been credited successfully. Ref No: 4465580264.",
+    "sender": "Campbell, Thomas and Kane <no-reply@campbell,thomasandkane.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Online purchase of ₹23,622.34 confirmed",
+    "body": "Your account ending with 6820 has been debited by ₹23,622.34 for Allen-Reyes.",
+    "sender": "Allen-Reyes <no-reply@allen-reyes.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Your order has been dispatched",
+    "body": "Check out our latest arrivals and discover products you'll love.",
+    "sender": "Mayo, Hunter and Brown <no-reply@mayo,hunterandbrown.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Weekly newsletter from Thomas LLC",
+    "body": "We have handpicked offers and discounts exclusively for you. Don't miss out on these deals!",
+    "sender": "Thomas LLC <no-reply@thomasllc.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Explore trending products this week",
+    "body": "You're invited to a special preview of our upcoming collection.",
+    "sender": "Walker, Cole and Ball <no-reply@walker,coleandball.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Your order has been dispatched",
+    "body": "Good news! Your package is out for delivery. Expect it to arrive within the next two days.",
+    "sender": "Richards PLC <no-reply@richardsplc.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Receipt for your payment of ₹8,542.59",
+    "body": "This is to confirm that your bill payment of ₹8,542.59 to Garza-Hopkins has been completed successfully.",
+    "sender": "Garza-Hopkins <no-reply@garza-hopkins.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Receipt for your payment of ₹62,849.97",
+    "body": "Your payment of ₹62,849.97 was processed via UPI. Transaction reference: 5481161557.",
+    "sender": "Cannon LLC <no-reply@cannonllc.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Your account has been debited by ₹50,055.04",
+    "body": "Your account ending with 9050 has been debited by ₹50,055.04 for Holland-Smith.",
+    "sender": "Holland-Smith <no-reply@holland-smith.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "UPI payment of ₹45,679.24 made to Hendrix-Curry",
+    "body": "This is your official receipt for the payment of ₹45,679.24 towards Hendrix-Curry.",
+    "sender": "Hendrix-Curry <no-reply@hendrix-curry.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Exclusive sale starts today",
+    "body": "Check out our latest arrivals and discover products you'll love.",
+    "sender": "Carroll PLC <no-reply@carrollplc.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Invoice paid: ₹39,383.30",
+    "body": "Your transfer of ₹39,383.30 to Cannon and Sons has been credited successfully. Ref No: 5241057478.",
+    "sender": "Cannon and Sons <no-reply@cannonandsons.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Online purchase of ₹29,104.10 confirmed",
+    "body": "Payment of ₹29,104.10 to Perez, Harris and Robbins was successful. Keep this email as your receipt.",
+    "sender": "Perez, Harris and Robbins <no-reply@perez,harrisandrobbins.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Recharge of ₹92,049.76 processed successfully",
+    "body": "Your account ending with 5081 has been debited by ₹92,049.76 for West PLC.",
+    "sender": "West PLC <no-reply@westplc.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Recharge of ₹21,073.45 processed successfully",
+    "body": "We have received your payment of ₹21,073.45. Your transaction ID is 3436271784.",
+    "sender": "Ross LLC <no-reply@rossllc.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Exclusive sale starts today",
+    "body": "Check out our latest arrivals and discover products you'll love.",
+    "sender": "Patton-Garner <no-reply@patton-garner.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Receipt for your payment of ₹56,163.47",
+    "body": "Your transfer of ₹56,163.47 to Brooks Inc has been credited successfully. Ref No: 1527745180.",
+    "sender": "Brooks Inc <no-reply@brooksinc.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "New arrivals in store – check them out",
+    "body": "Here’s your weekly newsletter with updates, tips, and special announcements from our team.",
+    "sender": "Forbes-Smith <no-reply@forbes-smith.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Your order has been dispatched",
+    "body": "Your subscription has been renewed successfully. Enjoy uninterrupted access to our content.",
+    "sender": "Morrison-Morales <no-reply@morrison-morales.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "UPI payment of ₹38,897.58 made to Tyler, Gutierrez and Ward",
+    "body": "Your account ending with 2488 has been debited by ₹38,897.58 for Tyler, Gutierrez and Ward.",
+    "sender": "Tyler, Gutierrez and Ward <no-reply@tyler,gutierrezandward.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Bill payment of ₹31,194.81 completed",
+    "body": "We have received your payment of ₹31,194.81. Your transaction ID is 5019957915.",
+    "sender": "Herrera Inc <no-reply@herrerainc.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Recharge of ₹75,901.57 processed successfully",
+    "body": "Your transfer of ₹75,901.57 to Smith and Sons has been credited successfully. Ref No: 2224447441.",
+    "sender": "Smith and Sons <no-reply@smithandsons.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "New arrivals in store – check them out",
+    "body": "Explore this week's most popular items and trending products.",
+    "sender": "Acosta-Walker <no-reply@acosta-walker.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Receipt for your payment of ₹89,545.22",
+    "body": "Your account ending with 2076 has been debited by ₹89,545.22 for Brown-Allen.",
+    "sender": "Brown-Allen <no-reply@brown-allen.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Your transfer of ₹59,620.39 was successful",
+    "body": "This is to confirm that your bill payment of ₹59,620.39 to Mack-Ramirez has been completed successfully.",
+    "sender": "Mack-Ramirez <no-reply@mack-ramirez.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Special invite from Sweeney-Berg",
+    "body": "Hi there, your order is on the way and will reach you soon. Track your shipment with the link below.",
+    "sender": "Sweeney-Berg <no-reply@sweeney-berg.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Special invite from Jackson-Kirby",
+    "body": "Your subscription has been renewed successfully. Enjoy uninterrupted access to our content.",
+    "sender": "Jackson-Kirby <no-reply@jackson-kirby.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "New arrivals in store – check them out",
+    "body": "Your subscription has been renewed successfully. Enjoy uninterrupted access to our content.",
+    "sender": "Malone, Marquez and Fletcher <no-reply@malone,marquezandfletcher.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Special invite from Harris-Diaz",
+    "body": "Our biggest sale of the season starts now! Shop your favorites at amazing discounts.",
+    "sender": "Harris-Diaz <no-reply@harris-diaz.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Exciting offers just for you",
+    "body": "Explore this week's most popular items and trending products.",
+    "sender": "Jones Group <no-reply@jonesgroup.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Your account has been debited by ₹3,740.83",
+    "body": "We have received your payment of ₹3,740.83. Your transaction ID is 1677178553.",
+    "sender": "Christensen Group <no-reply@christensengroup.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "UPI payment of ₹95,736.99 made to Russell Group",
+    "body": "Payment of ₹95,736.99 to Russell Group was successful. Keep this email as your receipt.",
+    "sender": "Russell Group <no-reply@russellgroup.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Your transfer of ₹45,691.25 was successful",
+    "body": "This is to confirm that your bill payment of ₹45,691.25 to Giles-Long has been completed successfully.",
+    "sender": "Giles-Long <no-reply@giles-long.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "UPI payment of ₹20,152.83 made to Price-Hall",
+    "body": "Your transfer of ₹20,152.83 to Price-Hall has been credited successfully. Ref No: 9975066805.",
+    "sender": "Price-Hall <no-reply@price-hall.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Recharge of ₹1,002.91 processed successfully",
+    "body": "Your payment of ₹1,002.91 was processed via UPI. Transaction reference: 1214497825.",
+    "sender": "Murray-Zimmerman <no-reply@murray-zimmerman.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Your subscription has been renewed",
+    "body": "Here’s your weekly newsletter with updates, tips, and special announcements from our team.",
+    "sender": "Guerra-Skinner <no-reply@guerra-skinner.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Your order has been dispatched",
+    "body": "Check out our latest arrivals and discover products you'll love.",
+    "sender": "Cruz-Moore <no-reply@cruz-moore.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Your transfer of ₹29,124.00 was successful",
+    "body": "We confirm receipt of your payment of ₹29,124.00. Thank you for choosing Lee, Vega and Santiago.",
+    "sender": "Lee, Vega and Santiago <no-reply@lee,vegaandsantiago.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Your transfer of ₹41,851.07 was successful",
+    "body": "Dear customer, your payment of ₹41,851.07 to Stephens-Chen has been successfully processed. Thank you for using our services.",
+    "sender": "Stephens-Chen <no-reply@stephens-chen.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Exciting offers just for you",
+    "body": "We have handpicked offers and discounts exclusively for you. Don't miss out on these deals!",
+    "sender": "Johnson and Sons <no-reply@johnsonandsons.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Your order has been dispatched",
+    "body": "Here’s your weekly newsletter with updates, tips, and special announcements from our team.",
+    "sender": "Ramsey and Sons <no-reply@ramseyandsons.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Invoice paid: ₹46,949.49",
+    "body": "This is to confirm that your bill payment of ₹46,949.49 to Walsh Inc has been completed successfully.",
+    "sender": "Walsh Inc <no-reply@walshinc.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Invoice paid: ₹23,170.92",
+    "body": "We confirm receipt of your payment of ₹23,170.92. Thank you for choosing Baker, Brown and Kim.",
+    "sender": "Baker, Brown and Kim <no-reply@baker,brownandkim.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Recharge of ₹79,295.38 processed successfully",
+    "body": "Your payment of ₹79,295.38 was processed via UPI. Transaction reference: 4400586033.",
+    "sender": "Mccullough, Harvey and Owen <no-reply@mccullough,harveyandowen.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Your subscription has been renewed",
+    "body": "You're invited to a special preview of our upcoming collection.",
+    "sender": "Vaughn, Forbes and Brewer <no-reply@vaughn,forbesandbrewer.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Recharge of ₹83,998.18 processed successfully",
+    "body": "Your transfer of ₹83,998.18 to Bauer, Coleman and Yoder has been credited successfully. Ref No: 7284887617.",
+    "sender": "Bauer, Coleman and Yoder <no-reply@bauer,colemanandyoder.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Bill payment of ₹13,802.30 completed",
+    "body": "Your payment of ₹13,802.30 was processed via UPI. Transaction reference: 5322081054.",
+    "sender": "Wright-Newton <no-reply@wright-newton.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "New arrivals in store – check them out",
+    "body": "We have handpicked offers and discounts exclusively for you. Don't miss out on these deals!",
+    "sender": "Wilcox, Ferguson and Rodriguez <no-reply@wilcox,fergusonandrodriguez.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Your package is on its way",
+    "body": "We’re hosting an exclusive event this weekend. RSVP now to secure your spot.",
+    "sender": "Hernandez-Booker <no-reply@hernandez-booker.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Explore trending products this week",
+    "body": "Your subscription has been renewed successfully. Enjoy uninterrupted access to our content.",
+    "sender": "Roberson, Thompson and Smith <no-reply@roberson,thompsonandsmith.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Bill payment of ₹99,751.05 completed",
+    "body": "Your account ending with 9756 has been debited by ₹99,751.05 for Crane Inc.",
+    "sender": "Crane Inc <no-reply@craneinc.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Explore trending products this week",
+    "body": "We have handpicked offers and discounts exclusively for you. Don't miss out on these deals!",
+    "sender": "Phillips and Sons <no-reply@phillipsandsons.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Your transfer of ₹59,471.16 was successful",
+    "body": "Recharge of ₹59,471.16 to your account with Grimes LLC has been completed.",
+    "sender": "Grimes LLC <no-reply@grimesllc.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Explore trending products this week",
+    "body": "Explore this week's most popular items and trending products.",
+    "sender": "Gibson-Gonzalez <no-reply@gibson-gonzalez.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Your order has been dispatched",
+    "body": "Good news! Your package is out for delivery. Expect it to arrive within the next two days.",
+    "sender": "Sanchez Ltd <no-reply@sanchezltd.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Special invite from Rose PLC",
+    "body": "Good news! Your package is out for delivery. Expect it to arrive within the next two days.",
+    "sender": "Rose PLC <no-reply@roseplc.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Payment of ₹28,903.99 successful",
+    "body": "Your payment of ₹28,903.99 was processed via UPI. Transaction reference: 2655137747.",
+    "sender": "Morton, Mccullough and Cameron <no-reply@morton,mcculloughandcameron.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "New arrivals in store – check them out",
+    "body": "We have handpicked offers and discounts exclusively for you. Don't miss out on these deals!",
+    "sender": "Davis, Walker and Anderson <no-reply@davis,walkerandanderson.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Weekly newsletter from Jones, Gonzalez and Weaver",
+    "body": "We’re hosting an exclusive event this weekend. RSVP now to secure your spot.",
+    "sender": "Jones, Gonzalez and Weaver <no-reply@jones,gonzalezandweaver.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Transaction alert: ₹70,363.82 credited",
+    "body": "Your account ending with 6320 has been debited by ₹70,363.82 for Bradley-Jenkins.",
+    "sender": "Bradley-Jenkins <no-reply@bradley-jenkins.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Payment of ₹34,237.52 successful",
+    "body": "Recharge of ₹34,237.52 to your account with Vang, Donovan and Lawson has been completed.",
+    "sender": "Vang, Donovan and Lawson <no-reply@vang,donovanandlawson.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Exciting offers just for you",
+    "body": "Your subscription has been renewed successfully. Enjoy uninterrupted access to our content.",
+    "sender": "Warren-Velez <no-reply@warren-velez.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Your order has been dispatched",
+    "body": "Check out our latest arrivals and discover products you'll love.",
+    "sender": "Chapman Inc <no-reply@chapmaninc.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Bill payment of ₹97,098.94 completed",
+    "body": "This is to confirm that your bill payment of ₹97,098.94 to Lee Inc has been completed successfully.",
+    "sender": "Lee Inc <no-reply@leeinc.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Your account has been debited by ₹67,018.68",
+    "body": "Your payment of ₹67,018.68 was processed via UPI. Transaction reference: 1130073823.",
+    "sender": "Green-Wagner <no-reply@green-wagner.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Transaction alert: ₹14,752.78 credited",
+    "body": "We have received your payment of ₹14,752.78. Your transaction ID is 9289982636.",
+    "sender": "Decker-Rogers <no-reply@decker-rogers.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Recharge of ₹81,877.89 processed successfully",
+    "body": "This is to confirm that your bill payment of ₹81,877.89 to Shields-Gamble has been completed successfully.",
+    "sender": "Shields-Gamble <no-reply@shields-gamble.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Exclusive sale starts today",
+    "body": "Explore this week's most popular items and trending products.",
+    "sender": "Smith PLC <no-reply@smithplc.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Explore trending products this week",
+    "body": "You're invited to a special preview of our upcoming collection.",
+    "sender": "Garcia, Lawrence and Kim <no-reply@garcia,lawrenceandkim.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "UPI payment of ₹18,790.41 made to Mcneil-Hill",
+    "body": "Your account ending with 5949 has been debited by ₹18,790.41 for Mcneil-Hill.",
+    "sender": "Mcneil-Hill <no-reply@mcneil-hill.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Recharge of ₹66,589.44 processed successfully",
+    "body": "We have received your payment of ₹66,589.44. Your transaction ID is 5174677615.",
+    "sender": "Smith-Oconnor <no-reply@smith-oconnor.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Invoice paid: ₹60,174.66",
+    "body": "Your payment of ₹60,174.66 was processed via UPI. Transaction reference: 2474731513.",
+    "sender": "Freeman-Nunez <no-reply@freeman-nunez.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Transaction alert: ₹62,387.25 credited",
+    "body": "Payment of ₹62,387.25 to Young-Crawford was successful. Keep this email as your receipt.",
+    "sender": "Young-Crawford <no-reply@young-crawford.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Your order has been dispatched",
+    "body": "Hi there, your order is on the way and will reach you soon. Track your shipment with the link below.",
+    "sender": "Buck PLC <no-reply@buckplc.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Receipt for your payment of ₹49,663.34",
+    "body": "We confirm receipt of your payment of ₹49,663.34. Thank you for choosing Rodriguez-Rivera.",
+    "sender": "Rodriguez-Rivera <no-reply@rodriguez-rivera.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Special invite from Campbell, Mcbride and Taylor",
+    "body": "Our biggest sale of the season starts now! Shop your favorites at amazing discounts.",
+    "sender": "Campbell, Mcbride and Taylor <no-reply@campbell,mcbrideandtaylor.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Weekly newsletter from Walter, Smith and Holmes",
+    "body": "We’re hosting an exclusive event this weekend. RSVP now to secure your spot.",
+    "sender": "Walter, Smith and Holmes <no-reply@walter,smithandholmes.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Special invite from Robbins, Graves and Williams",
+    "body": "Explore this week's most popular items and trending products.",
+    "sender": "Robbins, Graves and Williams <no-reply@robbins,gravesandwilliams.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Your account has been debited by ₹70,141.28",
+    "body": "Your account ending with 9013 has been debited by ₹70,141.28 for Townsend PLC.",
+    "sender": "Townsend PLC <no-reply@townsendplc.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Your subscription has been renewed",
+    "body": "Your subscription has been renewed successfully. Enjoy uninterrupted access to our content.",
+    "sender": "Espinoza-King <no-reply@espinoza-king.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Invoice paid: ₹6,420.68",
+    "body": "Dear customer, your payment of ₹6,420.68 to Howard-Osborn has been successfully processed. Thank you for using our services.",
+    "sender": "Howard-Osborn <no-reply@howard-osborn.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Recharge of ₹47,379.37 processed successfully",
+    "body": "Your account ending with 2851 has been debited by ₹47,379.37 for Hall Ltd.",
+    "sender": "Hall Ltd <no-reply@hallltd.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Receipt for your payment of ₹39,816.32",
+    "body": "Payment of ₹39,816.32 to Long-Wallace was successful. Keep this email as your receipt.",
+    "sender": "Long-Wallace <no-reply@long-wallace.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Your package is on its way",
+    "body": "Good news! Your package is out for delivery. Expect it to arrive within the next two days.",
+    "sender": "Patterson Group <no-reply@pattersongroup.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Explore trending products this week",
+    "body": "We have handpicked offers and discounts exclusively for you. Don't miss out on these deals!",
+    "sender": "Hall LLC <no-reply@hallllc.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Your order has been dispatched",
+    "body": "You're invited to a special preview of our upcoming collection.",
+    "sender": "Cruz, Hatfield and Shields <no-reply@cruz,hatfieldandshields.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Recharge of ₹94,828.37 processed successfully",
+    "body": "Recharge of ₹94,828.37 to your account with Martinez-Hahn has been completed.",
+    "sender": "Martinez-Hahn <no-reply@martinez-hahn.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "New arrivals in store – check them out",
+    "body": "Our biggest sale of the season starts now! Shop your favorites at amazing discounts.",
+    "sender": "Brown PLC <no-reply@brownplc.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Reminder: Upcoming event at Butler, Hayes and Ray",
+    "body": "We’re hosting an exclusive event this weekend. RSVP now to secure your spot.",
+    "sender": "Butler, Hayes and Ray <no-reply@butler,hayesandray.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Invoice paid: ₹57,545.69",
+    "body": "Dear customer, your payment of ₹57,545.69 to Koch PLC has been successfully processed. Thank you for using our services.",
+    "sender": "Koch PLC <no-reply@kochplc.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "New arrivals in store – check them out",
+    "body": "We have handpicked offers and discounts exclusively for you. Don't miss out on these deals!",
+    "sender": "Brown-Mueller <no-reply@brown-mueller.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Your account has been debited by ₹37,779.42",
+    "body": "Your account ending with 4574 has been debited by ₹37,779.42 for Smith-Lopez.",
+    "sender": "Smith-Lopez <no-reply@smith-lopez.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Payment of ₹17,389.99 successful",
+    "body": "Dear customer, your payment of ₹17,389.99 to Scott, Mason and Gutierrez has been successfully processed. Thank you for using our services.",
+    "sender": "Scott, Mason and Gutierrez <no-reply@scott,masonandgutierrez.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Your transfer of ₹37,694.84 was successful",
+    "body": "Recharge of ₹37,694.84 to your account with Mueller and Sons has been completed.",
+    "sender": "Mueller and Sons <no-reply@muellerandsons.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Exciting offers just for you",
+    "body": "We have handpicked offers and discounts exclusively for you. Don't miss out on these deals!",
+    "sender": "Evans, Hughes and Shea <no-reply@evans,hughesandshea.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Reminder: Upcoming event at Campbell-Davis",
+    "body": "Our biggest sale of the season starts now! Shop your favorites at amazing discounts.",
+    "sender": "Campbell-Davis <no-reply@campbell-davis.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Online purchase of ₹58,625.19 confirmed",
+    "body": "Dear customer, your payment of ₹58,625.19 to Bowman Inc has been successfully processed. Thank you for using our services.",
+    "sender": "Bowman Inc <no-reply@bowmaninc.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Your account has been debited by ₹53,313.04",
+    "body": "Your account ending with 4532 has been debited by ₹53,313.04 for Walker, Turner and Barnett.",
+    "sender": "Walker, Turner and Barnett <no-reply@walker,turnerandbarnett.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Your order has been dispatched",
+    "body": "Here’s your weekly newsletter with updates, tips, and special announcements from our team.",
+    "sender": "Lopez-Henry <no-reply@lopez-henry.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Your order has been dispatched",
+    "body": "We’re hosting an exclusive event this weekend. RSVP now to secure your spot.",
+    "sender": "Henderson Inc <no-reply@hendersoninc.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Your order has been dispatched",
+    "body": "You're invited to a special preview of our upcoming collection.",
+    "sender": "Rogers-Davies <no-reply@rogers-davies.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Your account has been debited by ₹95,646.84",
+    "body": "This is to confirm that your bill payment of ₹95,646.84 to Moody, Chan and Evans has been completed successfully.",
+    "sender": "Moody, Chan and Evans <no-reply@moody,chanandevans.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Your package is on its way",
+    "body": "Hi there, your order is on the way and will reach you soon. Track your shipment with the link below.",
+    "sender": "James-Day <no-reply@james-day.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Your transfer of ₹84,733.05 was successful",
+    "body": "Payment of ₹84,733.05 to Torres LLC was successful. Keep this email as your receipt.",
+    "sender": "Torres LLC <no-reply@torresllc.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Invoice paid: ₹69,989.13",
+    "body": "Your payment of ₹69,989.13 was processed via UPI. Transaction reference: 9578086916.",
+    "sender": "Young, Smith and Hensley <no-reply@young,smithandhensley.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Your account has been debited by ₹55,984.62",
+    "body": "This is your official receipt for the payment of ₹55,984.62 towards Mccoy, Olson and Andersen.",
+    "sender": "Mccoy, Olson and Andersen <no-reply@mccoy,olsonandandersen.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Online purchase of ₹76,384.21 confirmed",
+    "body": "We have received your payment of ₹76,384.21. Your transaction ID is 9616880989.",
+    "sender": "Davis-Lee <no-reply@davis-lee.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Exciting offers just for you",
+    "body": "You're invited to a special preview of our upcoming collection.",
+    "sender": "Smith PLC <no-reply@smithplc.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Special invite from Tanner, Richardson and Gardner",
+    "body": "We have handpicked offers and discounts exclusively for you. Don't miss out on these deals!",
+    "sender": "Tanner, Richardson and Gardner <no-reply@tanner,richardsonandgardner.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Recharge of ₹96,362.86 processed successfully",
+    "body": "Payment of ₹96,362.86 to Mahoney-Haley was successful. Keep this email as your receipt.",
+    "sender": "Mahoney-Haley <no-reply@mahoney-haley.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Exclusive sale starts today",
+    "body": "We have handpicked offers and discounts exclusively for you. Don't miss out on these deals!",
+    "sender": "Smith Ltd <no-reply@smithltd.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "UPI payment of ₹20,069.12 made to Sanchez, Jensen and Jackson",
+    "body": "This is your official receipt for the payment of ₹20,069.12 towards Sanchez, Jensen and Jackson.",
+    "sender": "Sanchez, Jensen and Jackson <no-reply@sanchez,jensenandjackson.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Special invite from Jones, Huber and Henry",
+    "body": "We’re hosting an exclusive event this weekend. RSVP now to secure your spot.",
+    "sender": "Jones, Huber and Henry <no-reply@jones,huberandhenry.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Receipt for your payment of ₹55,122.25",
+    "body": "Payment of ₹55,122.25 to Vasquez-Smith was successful. Keep this email as your receipt.",
+    "sender": "Vasquez-Smith <no-reply@vasquez-smith.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Explore trending products this week",
+    "body": "You're invited to a special preview of our upcoming collection.",
+    "sender": "Harrell-Cruz <no-reply@harrell-cruz.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Your transfer of ₹73,104.35 was successful",
+    "body": "Your transfer of ₹73,104.35 to Webster Ltd has been credited successfully. Ref No: 2367241184.",
+    "sender": "Webster Ltd <no-reply@websterltd.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Special invite from Fleming-Nelson",
+    "body": "Hi there, your order is on the way and will reach you soon. Track your shipment with the link below.",
+    "sender": "Fleming-Nelson <no-reply@fleming-nelson.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Exclusive sale starts today",
+    "body": "Good news! Your package is out for delivery. Expect it to arrive within the next two days.",
+    "sender": "Hall, Parker and Munoz <no-reply@hall,parkerandmunoz.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Online purchase of ₹65,570.51 confirmed",
+    "body": "Payment of ₹65,570.51 to Powell and Sons was successful. Keep this email as your receipt.",
+    "sender": "Powell and Sons <no-reply@powellandsons.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Weekly newsletter from Torres PLC",
+    "body": "We’re hosting an exclusive event this weekend. RSVP now to secure your spot.",
+    "sender": "Torres PLC <no-reply@torresplc.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Explore trending products this week",
+    "body": "We’re hosting an exclusive event this weekend. RSVP now to secure your spot.",
+    "sender": "Church-Edwards <no-reply@church-edwards.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "UPI payment of ₹89,788.08 made to Sanchez, Simon and White",
+    "body": "Your transfer of ₹89,788.08 to Sanchez, Simon and White has been credited successfully. Ref No: 2346304459.",
+    "sender": "Sanchez, Simon and White <no-reply@sanchez,simonandwhite.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Exclusive sale starts today",
+    "body": "Our biggest sale of the season starts now! Shop your favorites at amazing discounts.",
+    "sender": "Anderson, Huerta and Johns <no-reply@anderson,huertaandjohns.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Bill payment of ₹53,187.07 completed",
+    "body": "Payment of ₹53,187.07 to Pennington, Richards and Rivera was successful. Keep this email as your receipt.",
+    "sender": "Pennington, Richards and Rivera <no-reply@pennington,richardsandrivera.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Your account has been debited by ₹21,333.53",
+    "body": "This is to confirm that your bill payment of ₹21,333.53 to Peterson Ltd has been completed successfully.",
+    "sender": "Peterson Ltd <no-reply@petersonltd.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Recharge of ₹67,193.72 processed successfully",
+    "body": "We confirm receipt of your payment of ₹67,193.72. Thank you for choosing Turner, Moss and Jones.",
+    "sender": "Turner, Moss and Jones <no-reply@turner,mossandjones.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Recharge of ₹60,952.50 processed successfully",
+    "body": "We confirm receipt of your payment of ₹60,952.50. Thank you for choosing Brooks, Davis and Macdonald.",
+    "sender": "Brooks, Davis and Macdonald <no-reply@brooks,davisandmacdonald.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Your subscription has been renewed",
+    "body": "Here’s your weekly newsletter with updates, tips, and special announcements from our team.",
+    "sender": "Johnson, Wilson and Davis <no-reply@johnson,wilsonanddavis.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Your account has been debited by ₹41,836.32",
+    "body": "Payment of ₹41,836.32 to Powell-Sullivan was successful. Keep this email as your receipt.",
+    "sender": "Powell-Sullivan <no-reply@powell-sullivan.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "UPI payment of ₹21,477.78 made to Scott, Larson and Stanton",
+    "body": "Your payment of ₹21,477.78 was processed via UPI. Transaction reference: 5177200371.",
+    "sender": "Scott, Larson and Stanton <no-reply@scott,larsonandstanton.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "UPI payment of ₹85,845.34 made to Hobbs, Bauer and Coleman",
+    "body": "This is your official receipt for the payment of ₹85,845.34 towards Hobbs, Bauer and Coleman.",
+    "sender": "Hobbs, Bauer and Coleman <no-reply@hobbs,bauerandcoleman.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Your subscription has been renewed",
+    "body": "We have handpicked offers and discounts exclusively for you. Don't miss out on these deals!",
+    "sender": "Williams and Sons <no-reply@williamsandsons.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Explore trending products this week",
+    "body": "We’re hosting an exclusive event this weekend. RSVP now to secure your spot.",
+    "sender": "Burns Group <no-reply@burnsgroup.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Your transfer of ₹23,464.23 was successful",
+    "body": "This is to confirm that your bill payment of ₹23,464.23 to Goodwin-Roberts has been completed successfully.",
+    "sender": "Goodwin-Roberts <no-reply@goodwin-roberts.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Receipt for your payment of ₹56,492.10",
+    "body": "Payment of ₹56,492.10 to Haas-Griffin was successful. Keep this email as your receipt.",
+    "sender": "Haas-Griffin <no-reply@haas-griffin.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Your order has been dispatched",
+    "body": "Here’s your weekly newsletter with updates, tips, and special announcements from our team.",
+    "sender": "Parker-Vazquez <no-reply@parker-vazquez.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Transaction alert: ₹20,195.79 credited",
+    "body": "Dear customer, your payment of ₹20,195.79 to Montgomery, Perez and Larson has been successfully processed. Thank you for using our services.",
+    "sender": "Montgomery, Perez and Larson <no-reply@montgomery,perezandlarson.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "UPI payment of ₹18,723.15 made to Copeland Ltd",
+    "body": "We have received your payment of ₹18,723.15. Your transaction ID is 5635991259.",
+    "sender": "Copeland Ltd <no-reply@copelandltd.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Your package is on its way",
+    "body": "Our biggest sale of the season starts now! Shop your favorites at amazing discounts.",
+    "sender": "Joseph, Sullivan and Ruiz <no-reply@joseph,sullivanandruiz.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Bill payment of ₹37,354.51 completed",
+    "body": "This is your official receipt for the payment of ₹37,354.51 towards Mitchell, Doyle and Johnson.",
+    "sender": "Mitchell, Doyle and Johnson <no-reply@mitchell,doyleandjohnson.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Reminder: Upcoming event at Williams, Mann and Navarro",
+    "body": "Your subscription has been renewed successfully. Enjoy uninterrupted access to our content.",
+    "sender": "Williams, Mann and Navarro <no-reply@williams,mannandnavarro.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Exclusive sale starts today",
+    "body": "We have handpicked offers and discounts exclusively for you. Don't miss out on these deals!",
+    "sender": "Andrews-Bell <no-reply@andrews-bell.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Invoice paid: ₹97,395.48",
+    "body": "We have received your payment of ₹97,395.48. Your transaction ID is 5009417978.",
+    "sender": "Jones, Acosta and Hebert <no-reply@jones,acostaandhebert.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Special invite from Walker, Parsons and Williams",
+    "body": "Good news! Your package is out for delivery. Expect it to arrive within the next two days.",
+    "sender": "Walker, Parsons and Williams <no-reply@walker,parsonsandwilliams.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Your subscription has been renewed",
+    "body": "Your subscription has been renewed successfully. Enjoy uninterrupted access to our content.",
+    "sender": "Miller Group <no-reply@millergroup.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Receipt for your payment of ₹83,557.06",
+    "body": "We confirm receipt of your payment of ₹83,557.06. Thank you for choosing Taylor-Bridges.",
+    "sender": "Taylor-Bridges <no-reply@taylor-bridges.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Exciting offers just for you",
+    "body": "Here’s your weekly newsletter with updates, tips, and special announcements from our team.",
+    "sender": "Reeves, Sanchez and Gomez <no-reply@reeves,sanchezandgomez.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Exclusive sale starts today",
+    "body": "Your subscription has been renewed successfully. Enjoy uninterrupted access to our content.",
+    "sender": "Schwartz-Morales <no-reply@schwartz-morales.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Special invite from Butler-Dean",
+    "body": "Here’s your weekly newsletter with updates, tips, and special announcements from our team.",
+    "sender": "Butler-Dean <no-reply@butler-dean.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Your transfer of ₹24,346.57 was successful",
+    "body": "Your account ending with 8768 has been debited by ₹24,346.57 for Holt-French.",
+    "sender": "Holt-French <no-reply@holt-french.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Special invite from Meyer-Jensen",
+    "body": "Good news! Your package is out for delivery. Expect it to arrive within the next two days.",
+    "sender": "Meyer-Jensen <no-reply@meyer-jensen.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "UPI payment of ₹39,552.99 made to Tucker, Jackson and Garcia",
+    "body": "This is your official receipt for the payment of ₹39,552.99 towards Tucker, Jackson and Garcia.",
+    "sender": "Tucker, Jackson and Garcia <no-reply@tucker,jacksonandgarcia.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Exciting offers just for you",
+    "body": "Explore this week's most popular items and trending products.",
+    "sender": "Clark Inc <no-reply@clarkinc.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Exclusive sale starts today",
+    "body": "You're invited to a special preview of our upcoming collection.",
+    "sender": "Buck-Mitchell <no-reply@buck-mitchell.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Special invite from Lawrence, Davis and George",
+    "body": "We’re hosting an exclusive event this weekend. RSVP now to secure your spot.",
+    "sender": "Lawrence, Davis and George <no-reply@lawrence,davisandgeorge.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Your transfer of ₹85,306.45 was successful",
+    "body": "This is to confirm that your bill payment of ₹85,306.45 to Anderson-Stephens has been completed successfully.",
+    "sender": "Anderson-Stephens <no-reply@anderson-stephens.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "UPI payment of ₹8,838.82 made to Wilson PLC",
+    "body": "Your transfer of ₹8,838.82 to Wilson PLC has been credited successfully. Ref No: 5533002422.",
+    "sender": "Wilson PLC <no-reply@wilsonplc.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Your subscription has been renewed",
+    "body": "Check out our latest arrivals and discover products you'll love.",
+    "sender": "Turner-Glass <no-reply@turner-glass.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Bill payment of ₹21,066.76 completed",
+    "body": "Your transfer of ₹21,066.76 to Gutierrez and Sons has been credited successfully. Ref No: 8477885561.",
+    "sender": "Gutierrez and Sons <no-reply@gutierrezandsons.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Your order has been dispatched",
+    "body": "Good news! Your package is out for delivery. Expect it to arrive within the next two days.",
+    "sender": "Peterson, Jones and Williams <no-reply@peterson,jonesandwilliams.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Reminder: Upcoming event at White, Gallegos and Grant",
+    "body": "Good news! Your package is out for delivery. Expect it to arrive within the next two days.",
+    "sender": "White, Gallegos and Grant <no-reply@white,gallegosandgrant.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Your transfer of ₹57,899.08 was successful",
+    "body": "Dear customer, your payment of ₹57,899.08 to Barnes, Smith and Allen has been successfully processed. Thank you for using our services.",
+    "sender": "Barnes, Smith and Allen <no-reply@barnes,smithandallen.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Payment of ₹25,044.42 successful",
+    "body": "Your payment of ₹25,044.42 was processed via UPI. Transaction reference: 7796142702.",
+    "sender": "Brown PLC <no-reply@brownplc.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Bill payment of ₹87,108.64 completed",
+    "body": "This is your official receipt for the payment of ₹87,108.64 towards Eaton, Ward and Sanchez.",
+    "sender": "Eaton, Ward and Sanchez <no-reply@eaton,wardandsanchez.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Your order has been dispatched",
+    "body": "Your subscription has been renewed successfully. Enjoy uninterrupted access to our content.",
+    "sender": "Henson, Mckee and Huber <no-reply@henson,mckeeandhuber.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Recharge of ₹16,161.36 processed successfully",
+    "body": "We have received your payment of ₹16,161.36. Your transaction ID is 1839293859.",
+    "sender": "Campbell-Padilla <no-reply@campbell-padilla.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Transaction alert: ₹72,626.44 credited",
+    "body": "We confirm receipt of your payment of ₹72,626.44. Thank you for choosing Mann-Walker.",
+    "sender": "Mann-Walker <no-reply@mann-walker.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Your subscription has been renewed",
+    "body": "Good news! Your package is out for delivery. Expect it to arrive within the next two days.",
+    "sender": "Keller, Turner and Newman <no-reply@keller,turnerandnewman.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Payment of ₹8,391.40 successful",
+    "body": "Payment of ₹8,391.40 to Reid-Aguilar was successful. Keep this email as your receipt.",
+    "sender": "Reid-Aguilar <no-reply@reid-aguilar.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Your transfer of ₹6,594.88 was successful",
+    "body": "We have received your payment of ₹6,594.88. Your transaction ID is 1034175196.",
+    "sender": "Jones-Maldonado <no-reply@jones-maldonado.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Invoice paid: ₹91,317.51",
+    "body": "Payment of ₹91,317.51 to Fuller-Bailey was successful. Keep this email as your receipt.",
+    "sender": "Fuller-Bailey <no-reply@fuller-bailey.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Recharge of ₹72,523.38 processed successfully",
+    "body": "Recharge of ₹72,523.38 to your account with Berry-Cooper has been completed.",
+    "sender": "Berry-Cooper <no-reply@berry-cooper.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Receipt for your payment of ₹52,648.38",
+    "body": "We have received your payment of ₹52,648.38. Your transaction ID is 7753388790.",
+    "sender": "Robinson, Lee and Vasquez <no-reply@robinson,leeandvasquez.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Exclusive sale starts today",
+    "body": "Your subscription has been renewed successfully. Enjoy uninterrupted access to our content.",
+    "sender": "Perez, Smith and Atkins <no-reply@perez,smithandatkins.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Your order has been dispatched",
+    "body": "We have handpicked offers and discounts exclusively for you. Don't miss out on these deals!",
+    "sender": "Callahan LLC <no-reply@callahanllc.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Your subscription has been renewed",
+    "body": "Good news! Your package is out for delivery. Expect it to arrive within the next two days.",
+    "sender": "Hogan, Pratt and Kelly <no-reply@hogan,prattandkelly.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Weekly newsletter from White PLC",
+    "body": "Here’s your weekly newsletter with updates, tips, and special announcements from our team.",
+    "sender": "White PLC <no-reply@whiteplc.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Your account has been debited by ₹8,519.82",
+    "body": "Your account ending with 3487 has been debited by ₹8,519.82 for Holmes Group.",
+    "sender": "Holmes Group <no-reply@holmesgroup.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Receipt for your payment of ₹34,459.71",
+    "body": "Your transfer of ₹34,459.71 to Johnson and Sons has been credited successfully. Ref No: 3307401327.",
+    "sender": "Johnson and Sons <no-reply@johnsonandsons.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Exciting offers just for you",
+    "body": "Good news! Your package is out for delivery. Expect it to arrive within the next two days.",
+    "sender": "Nelson Group <no-reply@nelsongroup.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Payment of ₹21,518.84 successful",
+    "body": "Payment of ₹21,518.84 to Delgado Group was successful. Keep this email as your receipt.",
+    "sender": "Delgado Group <no-reply@delgadogroup.com>"
+  },
+  {
+    "category": "non-transactional",
+    "subject": "Your package is on its way",
+    "body": "We have handpicked offers and discounts exclusively for you. Don't miss out on these deals!",
+    "sender": "Obrien-Hall <no-reply@obrien-hall.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Bill payment of ₹21,269.67 completed",
+    "body": "Recharge of ₹21,269.67 to your account with Weiss-Phillips has been completed.",
+    "sender": "Weiss-Phillips <no-reply@weiss-phillips.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Online purchase of ₹22,248.19 confirmed",
+    "body": "This is your official receipt for the payment of ₹22,248.19 towards Weiss and Sons.",
+    "sender": "Weiss and Sons <no-reply@weissandsons.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Online purchase of ₹65,983.97 confirmed",
+    "body": "We confirm receipt of your payment of ₹65,983.97. Thank you for choosing Mccarthy, Garcia and Spencer.",
+    "sender": "Mccarthy, Garcia and Spencer <no-reply@mccarthy,garciaandspencer.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "UPI payment of ₹67,407.05 made to Thomas-Moyer",
+    "body": "Dear customer, your payment of ₹67,407.05 to Thomas-Moyer has been successfully processed. Thank you for using our services.",
+    "sender": "Thomas-Moyer <no-reply@thomas-moyer.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "UPI payment of ₹74,813.64 made to Williams, Chavez and Lopez",
+    "body": "This is to confirm that your bill payment of ₹74,813.64 to Williams, Chavez and Lopez has been completed successfully.",
+    "sender": "Williams, Chavez and Lopez <no-reply@williams,chavezandlopez.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Bill payment of ₹49,498.86 completed",
+    "body": "This is to confirm that your bill payment of ₹49,498.86 to Vega-Howell has been completed successfully.",
+    "sender": "Vega-Howell <no-reply@vega-howell.com>"
+  },
+  {
+    "category": "transactional",
+    "subject": "Bill payment of ₹26,240.33 completed",
+    "body": "We confirm receipt of your payment of ₹26,240.33. Thank you for choosing Glass, Johnson and Perkins.",
+    "sender": "Glass, Johnson and Perkins <no-reply@glass,johnsonandperkins.com>"
+  }
+]
