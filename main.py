@@ -1,48 +1,87 @@
-from fastapi import FastAPI
+from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
-import pickle
 import joblib
-from sentence_transformers import SentenceTransformer
-import sys
+import os
+import logging
+from contextlib import asynccontextmanager
 
-# Load MiniLM embedder
-embedder = SentenceTransformer("minilm_embedder")
+# Configure logging
+logging.basicConfig(level=logging.INFO)
+logger = logging.getLogger(__name__)
 
-# Load Logistic Regression model with error handling
-def load_model():
+# Global variables
+model = None
+embedder = None
+
+@asynccontextmanager
+async def lifespan(app: FastAPI):
+    global model, embedder
     try:
-        print("Attempting to load with joblib...")
-        model = joblib.load("email_classifier.pkl")
-        print("Model loaded successfully with joblib")
-        return model
+        logger.info("Loading models...")
+        
+        # Load sentence transformer
+        from sentence_transformers import SentenceTransformer
+        embedder = SentenceTransformer('all-MiniLM-L6-v2')
+        
+        # Load classifier
+        if os.path.exists("email_classifier.pkl"):
+            model = joblib.load("email_classifier.pkl")
+            logger.info("✅ Models loaded successfully!")
+        else:
+            logger.error("❌ email_classifier.pkl not found!")
+            
     except Exception as e:
-        print(f"Joblib loading failed: {e}")
-
-model = load_model()
+        logger.error(f"❌ Error loading models: {e}")
+    
+    yield
 
 # FastAPI app
-app = FastAPI(title="Email Classifier API", version="1.0")
+app = FastAPI(
+    title="Email Classifier API",
+    description="Railway-deployed email classification service",
+    version="1.0.0",
+    lifespan=lifespan
+)
 
-# Request schema
 class EmailRequest(BaseModel):
     subject: str
     body: str
-    sender: str
 
 @app.get("/")
-def root():
-    return {"message": "Email Classifier API is running"}
+async def root():
+    return {
+        "message": "Email Classifier API running on Railway! 🚂",
+        "status": "healthy" if model and embedder else "loading",
+        "port": os.environ.get("PORT", "8000")
+    }
+
+@app.get("/health")
+async def health():
+    return {
+        "status": "ok",
+        "model_loaded": model is not None,
+        "embedder_loaded": embedder is not None
+    }
 
 @app.post("/predict")
-def predict_email(data: EmailRequest):
+async def predict_email(data: EmailRequest):
+    if not model or not embedder:
+        raise HTTPException(status_code=503, detail="Models still loading")
+    
     try:
-        text = f"{data.subject} {data.body} {data.sender}"
-        embedding = embedder.encode([text])  # Shape: (1, embedding_dim)
+        text = f"{data.subject} {data.body}"
+        embedding = embedder.encode([text])
         prediction = model.predict(embedding)[0]
-        return {"category": prediction}
+        
+        return {
+            "category": str(prediction),
+            "confidence": "calculated" if hasattr(model, 'predict_proba') else "not_available"
+        }
     except Exception as e:
-        return {"error": str(e)}
+        logger.error(f"Prediction error: {e}")
+        raise HTTPException(status_code=500, detail=f"Prediction failed: {str(e)}")
 
 if __name__ == "__main__":
     import uvicorn
-    uvicorn.run(app, host="0.0.0.0", port=8000)
+    port = int(os.environ.get("PORT", 8000))
+    uvicorn.run(app, host="0.0.0.0", port=port)

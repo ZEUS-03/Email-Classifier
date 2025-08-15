@@ -28,6 +28,7 @@ dist/
 *.h5
 *.ckpt
 *.bin
+miniml_embedder/
 
 # OS specific
 .DS_Store
